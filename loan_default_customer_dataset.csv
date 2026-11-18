@@ -1,0 +1,1201 @@
+applicant_id,age,employment_type,education_level,marital_status,dependents,annual_income,loan_amount,loan_term_months,credit_score,existing_debt,property_area,loan_purpose,employment_years,application_date,previous_defaults,loan_default
+APP100001,25,Salaried,Bachelor,Married,0.0,1726667.0,405707.0,60,691.0,535392.0,Semiurban,Education,10.8,2026-03-31,0,0
+APP100002,55,Self-employed,Bachelor,,2.0,1069855.0,,48,646.0,27800.0,Urban,Home,7.2,2025-09-13,0,0
+APP100003,50,Contract,High School,Single,0.0,515691.0,285878.0,180,652.0,204012.0,Urban,Personal,14.5,2024-06-18,3,0
+APP100004,40,Self-employed,Bachelor,Married,1.0,892369.0,367811.0,12,,57155.0,Urban,Home,13.5,2025-11-30,1,0
+APP100005,40,Unemployed,Bachelor,Single,2.0,308299.0,114572.0,12,757.0,138697.0,Semiurban,Personal,8.0,2025-03-31,0,0
+APP100006,59,Self-employed,Bachelor,Married,2.0,448997.0,145267.0,84,706.0,130243.0,Semiurban,,5.7,2026-06-12,0,0
+APP100007,24,Contract,High School,Married,0.0,688591.0,316234.0,240,797.0,33387.0,Urban,Vehicle,9.5,2025-09-22,0,0
+APP100008,52,Salaried,Bachelor,Single,0.0,833555.0,642987.0,240,634.0,218265.0,Urban,Home,6.1,2026-09-12,1,0
+APP100009,30,Self-employed,Bachelor,Single,1.0,616076.0,467912.0,84,561.0,100089.0,Urban,Personal,15.4,2024-08-09,0,0
+APP100010,25,Salaried,High School,Married,0.0,744997.0,251374.0,48,726.0,320206.0,Rural,Business,7.4,2023-04-26,0,0
+APP100011,44,Self-employed,Diploma,Single,2.0,678617.0,365083.0,36,630.0,234023.0,Urban,Home,5.0,2024-11-19,0,0
+APP100012,64,Self-employed,Bachelor,Married,0.0,594075.0,456510.0,240,662.0,141400.0,Rural,Home,4.7,2026-10-28,0,0
+APP100013,54,Unemployed,Bachelor,Married,1.0,552301.0,381602.0,24,565.0,113114.0,Urban,Business,0.9,2025-07-06,0,0
+APP100014,55,Unemployed,Diploma,Married,0.0,514156.0,225381.0,24,622.0,230457.0,Urban,Personal,9.8,2025-09-11,0,0
+APP100015,53,Salaried,Master,Single,1.0,738439.0,178846.0,60,582.0,226682.0,Semiurban,Home,2.9,2025-05-25,0,1
+APP100016,56,Self-employed,,Married,,814782.0,701964.0,48,652.0,196354.0,Semiurban,Vehicle,12.5,2025-04-09,0,1
+APP100017,44,Self-employed,Master,Divorced,2.0,724926.0,379552.0,60,654.0,138545.0,Urban,Education,0.5,2023-03-27,1,1
+APP100018,26,Salaried,,,0.0,339931.0,158164.0,240,686.0,54243.0,Rural,Home,7.6,2024-08-01,0,0
+APP100019,58,Salaried,Bachelor,Single,4.0,375239.0,250285.0,36,761.0,121326.0,Urban,Vehicle,12.8,2023-05-02,0,0
+APP100020,41,Salaried,Bachelor,Single,2.0,809452.0,258345.0,180,724.0,220811.0,Urban,Home,0.0,2024-04-15,0,0
+APP100021,43,Self-employed,Master,Married,0.0,1460293.0,985590.0,24,575.0,561803.0,Urban,Education,17.1,2025-10-04,0,1
+APP100022,37,,Bachelor,Married,0.0,706838.0,,36,720.0,182386.0,Semiurban,Business,4.9,2026-01-30,0,0
+APP100023,29,Unemployed,Bachelor,Married,0.0,518300.0,330388.0,12,687.0,140150.0,Rural,Education,7.7,2023-11-10,0,0
+APP100024,62,Salaried,Bachelor,Married,0.0,735360.0,632741.0,120,674.0,165650.0,Urban,Vehicle,9.9,2025-07-05,0,0
+APP100025,56,Unemployed,Bachelor,Single,0.0,347832.0,328577.0,180,679.0,121020.0,Rural,Education,10.6,2023-11-14,0,0
+APP100026,49,Salaried,High School,Single,3.0,1335273.0,1001497.0,180,693.0,,Semiurban,Education,8.4,2023-10-08,0,0
+APP100027,39,Self-employed,Bachelor,Single,1.0,720251.0,500888.0,24,635.0,278257.0,Rural,Home,12.0,2026-09-05,0,1
+APP100028,58,Salaried,Bachelor,Married,0.0,449786.0,232624.0,120,668.0,72249.0,Rural,Home,9.6,2025-05-03,0,0
+APP100029,45,Self-employed,Master,Married,1.0,593024.0,504747.0,24,757.0,188480.0,Rural,Home,15.8,2023-10-04,0,1
+APP100030,40,Contract,Bachelor,Single,0.0,486435.0,359889.0,84,634.0,196509.0,Semiurban,Personal,9.6,2023-07-17,0,0
+APP100031,41,Contract,Bachelor,Married,4.0,,694497.0,120,613.0,468985.0,Urban,Business,16.8,2023-03-11,0,1
+APP100032,31,Contract,Doctorate,Single,0.0,581575.0,305235.0,24,676.0,97310.0,Semiurban,Home,,2024-11-26,1,0
+APP100033,25,Salaried,Bachelor,Single,,707985.0,207065.0,12,,229193.0,Semiurban,Vehicle,0.0,2023-05-22,0,0
+APP100034,45,Salaried,High School,Single,2.0,891158.0,428813.0,12,568.0,97139.0,Semiurban,Education,20.1,2025-03-27,0,1
+APP100035,60,Salaried,High School,Divorced,0.0,432486.0,358671.0,120,658.0,19467.0,Semiurban,Home,4.1,2024-08-30,0,1
+APP100036,23,Salaried,High School,Married,0.0,723075.0,361253.0,84,774.0,260520.0,Urban,Personal,14.5,2025-06-08,0,0
+APP100037,59,Self-employed,High School,Married,1.0,755902.0,320605.0,24,677.0,277752.0,Rural,Personal,7.1,2023-10-18,2,1
+APP100038,58,Self-employed,Bachelor,Single,3.0,276505.0,92856.0,60,692.0,8257.0,Urban,Vehicle,12.3,2023-07-23,2,0
+APP100039,33,Self-employed,Master,Single,1.0,746918.0,179265.0,180,542.0,319346.0,Rural,Home,3.6,2023-05-22,0,0
+APP100040,49,Contract,Bachelor,Married,2.0,633844.0,543894.0,36,708.0,134208.0,Urban,Vehicle,10.1,2023-05-14,1,0
+APP100041,28,Self-employed,High School,Single,2.0,698164.0,173516.0,84,686.0,285736.0,Urban,Education,5.7,2023-04-12,0,1
+APP100042,55,Contract,Bachelor,Divorced,2.0,662863.0,153199.0,36,637.0,237912.0,Rural,Personal,14.9,2023-12-29,2,1
+APP100043,52,Salaried,High School,Married,1.0,749582.0,271626.0,36,692.0,305291.0,Rural,Vehicle,9.2,2026-01-25,1,1
+APP100044,36,Salaried,Master,Married,1.0,1356294.0,1017807.0,48,691.0,513156.0,Semiurban,Vehicle,11.7,2025-04-29,0,1
+APP100045,24,Self-employed,High School,Married,2.0,339761.0,219165.0,48,611.0,149093.0,Rural,Vehicle,0.0,2023-12-17,0,0
+APP100046,64,Contract,,Divorced,0.0,538501.0,66276.0,60,702.0,156442.0,Urban,Home,,2026-07-28,0,0
+APP100047,41,Salaried,Diploma,Married,3.0,937871.0,329233.0,24,758.0,110407.0,Rural,Home,9.1,2025-12-01,0,0
+APP100048,61,Salaried,Bachelor,Married,0.0,846814.0,434913.0,48,665.0,158788.0,Urban,Education,8.1,2025-12-26,0,0
+APP100049,51,Self-employed,Bachelor,Married,0.0,836850.0,304684.0,84,624.0,287297.0,Semiurban,Business,,2026-06-11,0,0
+APP100050,56,Salaried,Bachelor,Single,2.0,2955549.0,1978070.0,48,668.0,258601.0,Semiurban,Home,5.2,2025-11-09,0,0
+APP100051,55,Salaried,Diploma,Married,0.0,911186.0,236398.0,84,736.0,382545.0,Urban,Vehicle,7.2,2026-09-01,0,1
+APP100052,29,Contract,Master,Single,0.0,1210741.0,605084.0,24,600.0,131087.0,Semiurban,Personal,12.9,2024-04-07,0,0
+APP100053,37,Self-employed,Bachelor,Married,0.0,548991.0,237583.0,24,718.0,217768.0,Semiurban,,0.0,2026-04-13,0,0
+APP100054,42,Salaried,Bachelor,Married,1.0,376482.0,193356.0,180,636.0,85838.0,Urban,Business,9.9,2023-06-06,0,0
+APP100055,43,Contract,Master,Married,2.0,546808.0,313726.0,60,696.0,208589.0,Rural,Education,5.3,2024-02-25,0,0
+APP100056,22,,Doctorate,Married,0.0,961554.0,263265.0,84,643.0,415456.0,Semiurban,Education,2.4,2026-06-02,0,0
+APP100057,45,Contract,Diploma,Married,0.0,812997.0,216036.0,120,643.0,163838.0,Urban,Vehicle,8.7,2023-07-06,0,0
+APP100058,27,Salaried,Diploma,Single,1.0,811400.0,161723.0,24,779.0,259275.0,Semiurban,Vehicle,13.1,2024-12-02,0,0
+APP100059,54,Self-employed,Diploma,Single,3.0,,50000.0,240,588.0,67875.0,Urban,Vehicle,12.2,2024-04-21,0,0
+APP100060,51,Salaried,Diploma,Single,0.0,529208.0,325590.0,48,712.0,192811.0,Urban,Business,6.3,2023-05-21,0,0
+APP100061,62,Salaried,Bachelor,Married,3.0,588779.0,245197.0,240,793.0,219360.0,Semiurban,Business,11.4,2023-11-27,0,0
+APP100062,54,Contract,Doctorate,Married,3.0,968195.0,334574.0,48,,142282.0,,Business,11.3,2025-01-18,0,1
+APP100063,37,Salaried,Doctorate,Single,0.0,1032122.0,233580.0,48,593.0,31356.0,Urban,Business,6.6,2025-06-01,0,1
+APP100064,64,Salaried,Bachelor,Married,2.0,373732.0,295167.0,84,597.0,76771.0,Semiurban,Home,3.5,2025-08-03,1,0
+APP100065,39,Salaried,Bachelor,Single,2.0,988571.0,857643.0,24,631.0,92036.0,Urban,Business,3.8,2023-07-04,0,1
+APP100066,35,Self-employed,Master,Married,1.0,454444.0,346119.0,84,690.0,169043.0,Rural,Personal,11.2,2024-03-23,1,0
+APP100067,61,Contract,Master,Married,,841242.0,583341.0,240,695.0,111273.0,Rural,Business,6.8,2023-05-26,0,0
+APP100068,37,Unemployed,High School,Single,2.0,584871.0,445811.0,84,597.0,249031.0,Urban,Education,,2023-01-13,0,0
+APP100069,24,Salaried,Bachelor,Married,2.0,1537874.0,680950.0,12,623.0,673401.0,Semiurban,Vehicle,0.0,2024-06-30,0,1
+APP100070,42,Salaried,Master,Married,2.0,,400228.0,120,627.0,212168.0,Urban,Business,11.2,2025-05-20,0,1
+APP100071,56,Salaried,Diploma,Single,4.0,717095.0,444119.0,12,668.0,199234.0,Semiurban,Education,4.3,2024-06-03,0,0
+APP100072,29,Self-employed,Bachelor,Divorced,1.0,907414.0,185008.0,12,809.0,122495.0,Urban,Vehicle,8.7,2023-02-26,0,0
+APP100073,41,Unemployed,Doctorate,Married,2.0,401937.0,75261.0,36,619.0,147560.0,Rural,Education,13.2,2023-11-04,0,0
+APP100074,26,Self-employed,Doctorate,Married,3.0,624469.0,180029.0,36,616.0,200883.0,Urban,Home,0.5,2024-08-28,0,0
+APP100075,51,Self-employed,Master,Married,0.0,561353.0,119234.0,12,606.0,247098.0,Semiurban,Personal,6.8,2024-05-13,2,0
+APP100076,42,Salaried,Master,Married,0.0,489985.0,324246.0,12,721.0,89284.0,Urban,Business,6.1,2026-02-28,0,0
+APP100077,35,Contract,Diploma,Single,1.0,510364.0,56807.0,180,677.0,23104.0,Urban,Vehicle,8.9,2025-04-17,0,0
+APP100078,31,Salaried,Diploma,Married,3.0,1198206.0,884120.0,60,622.0,538361.0,Semiurban,Business,13.2,2026-10-30,0,0
+APP100079,46,Salaried,Bachelor,Married,0.0,467673.0,448858.0,24,656.0,177928.0,Semiurban,Home,,2023-09-03,0,0
+APP100080,51,Salaried,Bachelor,Single,2.0,887578.0,398326.0,48,629.0,102285.0,Rural,Vehicle,9.8,2024-06-02,0,0
+APP100081,63,Salaried,Bachelor,Single,0.0,772784.0,293261.0,120,699.0,256580.0,Urban,Business,12.2,2023-05-03,0,0
+APP100082,40,Salaried,Bachelor,Single,0.0,301459.0,109212.0,120,850.0,6119.0,Urban,Home,6.1,2023-01-29,0,0
+APP100083,28,Salaried,Bachelor,Married,1.0,864815.0,652112.0,36,716.0,224729.0,Urban,Business,6.3,2026-07-17,0,0
+APP100084,58,Salaried,Bachelor,Married,0.0,,82562.0,24,674.0,52583.0,Urban,Personal,9.1,2024-11-21,0,0
+APP100085,49,Self-employed,Diploma,Married,3.0,918207.0,200545.0,240,637.0,168925.0,Rural,Education,8.7,2025-07-12,0,0
+APP100086,52,Salaried,Diploma,Single,0.0,491773.0,287821.0,84,593.0,61542.0,Rural,Vehicle,9.9,2024-01-22,0,0
+APP100087,25,Salaried,High School,Single,3.0,,549516.0,240,728.0,90234.0,Rural,Business,9.8,2023-03-14,1,1
+APP100088,35,Unemployed,High School,Married,0.0,318977.0,162640.0,36,724.0,68742.0,Urban,Vehicle,2.1,2026-06-03,0,0
+APP100089,55,Self-employed,Master,Married,4.0,695258.0,,24,650.0,88091.0,Urban,Business,12.0,2025-07-10,0,0
+APP100090,58,Salaried,Bachelor,Married,1.0,1082247.0,896226.0,48,759.0,238710.0,Semiurban,Business,12.8,2025-09-23,0,0
+APP100091,40,Salaried,Diploma,Married,0.0,417023.0,213309.0,36,681.0,111870.0,Urban,Home,7.9,2025-01-16,0,0
+APP100092,57,Contract,Bachelor,Married,0.0,465462.0,95227.0,120,730.0,151637.0,Semiurban,Home,0.0,2024-07-20,0,0
+APP100093,58,Salaried,Bachelor,,0.0,834651.0,505744.0,120,699.0,259721.0,Urban,Home,6.4,2024-08-14,0,0
+APP100094,38,Salaried,High School,Divorced,1.0,846206.0,114328.0,12,668.0,,Urban,Home,8.0,2025-12-02,0,1
+APP100095,61,,Diploma,Married,2.0,170404.0,81579.0,84,618.0,,Rural,Vehicle,1.3,2023-11-15,0,0
+APP100096,33,Salaried,High School,Single,1.0,1969324.0,1080349.0,48,671.0,744509.0,Urban,Home,5.2,2024-04-22,0,0
+APP100097,31,Self-employed,Bachelor,Single,1.0,869290.0,508605.0,84,735.0,343452.0,Rural,Personal,0.0,2024-03-06,0,0
+APP100098,51,Self-employed,Diploma,Married,1.0,953632.0,423362.0,48,647.0,420478.0,Urban,Personal,10.0,2024-12-31,1,0
+APP100099,49,Self-employed,High School,Single,1.0,600658.0,221201.0,60,709.0,259890.0,Urban,Home,7.8,2026-09-16,0,0
+APP100100,27,Salaried,High School,Single,2.0,234283.0,192161.0,120,610.0,68537.0,Urban,Vehicle,0.0,2026-07-15,0,0
+APP100101,58,Salaried,Bachelor,Divorced,1.0,942060.0,534968.0,36,731.0,381098.0,Urban,Business,8.8,2025-02-01,0,0
+APP100102,29,Salaried,High School,Single,2.0,,375271.0,24,700.0,101289.0,Semiurban,Business,6.7,2023-10-08,0,0
+APP100103,57,Salaried,Master,Divorced,4.0,876674.0,693853.0,120,602.0,314335.0,Urban,Education,9.6,2026-08-09,0,1
+APP100104,21,Contract,High School,Married,0.0,576302.0,353255.0,240,665.0,248267.0,Semiurban,Personal,5.0,2024-03-14,0,0
+APP100105,56,Salaried,Bachelor,Married,0.0,740921.0,624615.0,48,741.0,268510.0,Rural,Business,3.0,2024-05-13,0,1
+APP100106,56,Self-employed,Bachelor,Married,0.0,424420.0,339190.0,240,598.0,84366.0,Urban,Business,3.1,2026-05-24,0,0
+APP100107,56,Self-employed,Bachelor,Single,1.0,1045642.0,260197.0,24,610.0,190763.0,Urban,Education,4.3,2024-01-04,0,0
+APP100108,50,Self-employed,High School,Married,0.0,338107.0,314654.0,180,675.0,49148.0,,,7.1,2024-10-08,0,0
+APP100109,42,Salaried,Master,Single,3.0,2235087.0,,240,819.0,397482.0,Rural,Vehicle,7.7,2026-07-07,0,0
+APP100110,52,Salaried,Master,Divorced,1.0,2225739.0,802008.0,36,636.0,829862.0,Semiurban,Education,6.0,2024-03-21,0,0
+APP100111,33,Unemployed,High School,Single,1.0,1595523.0,213912.0,24,712.0,513192.0,Urban,Personal,4.9,2025-05-24,0,0
+APP100112,56,Self-employed,High School,Single,2.0,1310922.0,699978.0,84,697.0,167074.0,Semiurban,Vehicle,5.2,2023-02-22,0,0
+APP100113,46,Contract,Master,Married,0.0,620466.0,333208.0,180,642.0,202247.0,Semiurban,Home,19.5,2026-10-25,0,0
+APP100114,41,Contract,Bachelor,Married,2.0,1234687.0,889508.0,12,690.0,226121.0,Urban,Education,3.1,2024-08-09,0,1
+APP100115,43,Self-employed,High School,Married,0.0,616510.0,292019.0,84,651.0,160195.0,Urban,Business,4.2,2025-07-27,0,0
+APP100116,46,Salaried,High School,Married,1.0,276590.0,50000.0,180,657.0,49581.0,Rural,Personal,23.5,2024-12-01,0,0
+APP100117,22,Self-employed,Bachelor,Single,3.0,1485836.0,443633.0,12,572.0,362991.0,Urban,Education,9.1,2024-08-30,0,1
+APP100118,27,Salaried,Bachelor,Married,,1209335.0,955880.0,60,678.0,403695.0,Urban,Business,0.1,2024-07-22,0,0
+APP100119,32,,Bachelor,Single,3.0,638892.0,109353.0,12,,213637.0,Urban,Vehicle,11.2,2023-01-25,0,0
+APP100120,26,Unemployed,Master,Single,1.0,331332.0,229575.0,24,684.0,113935.0,Semiurban,Education,2.4,2024-01-24,0,1
+APP100121,40,Salaried,Bachelor,Single,2.0,470861.0,140687.0,60,751.0,88591.0,Semiurban,Education,11.5,2024-06-16,0,0
+APP100122,51,Salaried,Diploma,Single,1.0,238732.0,162156.0,36,718.0,75657.0,Urban,Vehicle,5.9,2024-05-31,1,0
+APP100123,50,Salaried,Bachelor,Single,1.0,1093093.0,587430.0,12,676.0,134063.0,Semiurban,Business,4.8,2024-01-18,0,0
+APP100124,42,Unemployed,Diploma,Married,0.0,269119.0,116802.0,180,639.0,60631.0,Semiurban,Personal,15.0,2025-06-18,0,0
+APP100125,59,Salaried,Diploma,Single,0.0,761073.0,469447.0,24,648.0,206050.0,Urban,Vehicle,9.8,2026-03-06,0,0
+APP100126,46,Salaried,High School,Single,1.0,408684.0,285900.0,180,584.0,128812.0,Rural,Home,11.9,2026-06-01,1,0
+APP100127,24,Salaried,Diploma,Married,0.0,296571.0,85073.0,24,663.0,122234.0,Urban,Personal,9.2,2026-09-23,0,1
+APP100128,55,Salaried,Bachelor,Single,2.0,741050.0,258723.0,60,689.0,111936.0,Urban,Personal,4.8,2025-06-28,0,0
+APP100129,46,Salaried,High School,Married,2.0,540980.0,381685.0,120,792.0,207451.0,Rural,Personal,10.1,2024-07-29,0,0
+APP100130,49,Salaried,Bachelor,Divorced,3.0,1030682.0,714823.0,60,714.0,158502.0,Rural,Vehicle,13.0,2025-06-23,0,0
+APP100131,46,Salaried,,Married,0.0,323691.0,229709.0,48,,83293.0,Urban,,7.7,2023-07-05,0,0
+APP100132,45,Salaried,Bachelor,Married,3.0,428568.0,318391.0,120,586.0,161177.0,Rural,,16.0,2026-02-17,0,1
+APP100133,25,Salaried,Master,Single,0.0,174822.0,50000.0,12,667.0,57858.0,Semiurban,Business,11.3,2025-01-18,0,0
+APP100134,46,Salaried,Master,Single,1.0,195504.0,50000.0,180,733.0,76449.0,Urban,Personal,8.1,2023-08-20,2,0
+APP100135,56,Salaried,Bachelor,Married,2.0,1747564.0,1044680.0,120,666.0,647296.0,Rural,Personal,8.3,2024-08-19,1,0
+APP100136,34,Self-employed,High School,Married,0.0,2044588.0,1308469.0,120,715.0,283849.0,Semiurban,Education,7.7,2024-02-26,2,1
+APP100137,48,Salaried,Bachelor,Married,,684009.0,486490.0,48,668.0,305727.0,Urban,Home,0.7,2024-05-04,0,0
+APP100138,22,Salaried,Bachelor,Single,0.0,413173.0,58149.0,48,727.0,174735.0,Semiurban,Home,6.5,2023-03-12,0,1
+APP100139,36,Salaried,Diploma,Married,1.0,551601.0,225790.0,84,576.0,113064.0,Urban,Personal,8.1,2023-01-23,0,0
+APP100140,40,Salaried,High School,Single,2.0,1050938.0,538860.0,84,784.0,42353.0,Urban,Personal,4.9,2024-05-04,0,0
+APP100141,65,Salaried,Diploma,Single,0.0,489830.0,50000.0,240,608.0,73721.0,Rural,Home,8.7,2024-02-27,0,0
+APP100142,30,Salaried,Bachelor,Single,0.0,740756.0,372567.0,180,732.0,281151.0,Semiurban,Vehicle,7.1,2026-10-30,0,0
+APP100143,33,Contract,Bachelor,Divorced,1.0,645456.0,501292.0,12,662.0,276819.0,Semiurban,Vehicle,,2024-01-03,1,1
+APP100144,39,Salaried,High School,Single,0.0,475385.0,232509.0,24,672.0,179514.0,Semiurban,Vehicle,10.3,2024-04-06,0,0
+APP100145,65,Salaried,Master,Married,2.0,486660.0,152028.0,240,,92757.0,Semiurban,Business,7.8,2026-07-05,0,0
+APP100146,59,Salaried,Master,Married,3.0,763795.0,237731.0,48,697.0,33844.0,Urban,Education,0.2,2026-04-18,0,0
+APP100147,22,Salaried,High School,Married,2.0,379815.0,223809.0,84,710.0,92128.0,Rural,Education,16.0,2023-03-21,0,0
+APP100148,31,Salaried,Master,Married,3.0,833325.0,197525.0,12,749.0,151536.0,Semiurban,Education,6.3,2023-05-01,0,1
+APP100149,57,Self-employed,High School,Married,1.0,501500.0,57770.0,12,772.0,36548.0,Semiurban,Business,6.6,2023-05-13,0,0
+APP100150,23,Contract,Master,Single,2.0,697167.0,110457.0,48,702.0,45676.0,Semiurban,Business,5.3,2024-10-05,0,0
+APP100151,59,Salaried,Master,Single,0.0,1391520.0,243393.0,120,791.0,119401.0,Urban,Home,4.6,2025-03-12,0,1
+APP100152,33,Salaried,High School,Married,0.0,592569.0,180990.0,120,686.0,64296.0,Urban,Home,14.7,2024-05-07,1,0
+APP100153,62,Salaried,Master,Single,2.0,1078002.0,653816.0,240,750.0,370971.0,Urban,Vehicle,13.9,2023-01-19,0,0
+APP100154,34,Salaried,Doctorate,Single,0.0,242586.0,50000.0,24,708.0,44668.0,Urban,Education,9.2,2023-10-10,0,0
+APP100155,40,Self-employed,Master,Single,3.0,501836.0,177814.0,24,,104323.0,Semiurban,Personal,6.5,2025-05-10,0,0
+APP100156,50,Salaried,Doctorate,Single,2.0,659974.0,71178.0,60,692.0,183013.0,Rural,Personal,10.1,2024-06-05,0,0
+APP100157,26,Salaried,Bachelor,Single,3.0,1872078.0,742563.0,60,713.0,810343.0,Urban,Business,7.4,2023-06-22,0,0
+APP100158,46,Contract,High School,Single,0.0,221185.0,50000.0,12,678.0,76371.0,Urban,Home,6.0,2025-06-30,0,0
+APP100159,43,Salaried,Master,Married,1.0,616499.0,387121.0,60,707.0,183505.0,Semiurban,Home,8.7,2025-05-08,0,0
+APP100160,56,Salaried,Bachelor,Single,2.0,1448308.0,898286.0,240,736.0,492204.0,Urban,Education,4.8,2024-11-17,0,0
+APP100161,65,Self-employed,Bachelor,Divorced,0.0,422087.0,185839.0,24,678.0,138991.0,Rural,Education,8.3,2026-08-09,0,1
+APP100162,50,Salaried,Bachelor,,1.0,578195.0,174375.0,180,489.0,183176.0,Urban,Business,8.0,2026-03-28,0,0
+APP100163,39,Salaried,Bachelor,Single,2.0,780105.0,528840.0,60,789.0,182119.0,Urban,Home,10.0,2023-02-25,0,0
+APP100164,39,Salaried,High School,,4.0,719425.0,538560.0,60,661.0,189744.0,Urban,Personal,3.9,2026-06-20,0,0
+APP100165,39,Contract,Bachelor,Married,2.0,1537858.0,262722.0,84,626.0,335932.0,Rural,Education,10.6,2023-03-11,0,0
+APP100166,57,Salaried,High School,Married,0.0,831834.0,415502.0,120,607.0,157909.0,Urban,Education,2.5,2024-11-05,1,0
+APP100167,35,Salaried,Bachelor,Single,1.0,1349173.0,981910.0,84,658.0,184068.0,Semiurban,Home,4.1,2026-06-16,0,0
+APP100168,28,Salaried,Master,Single,1.0,533238.0,148286.0,12,643.0,92112.0,Urban,Personal,4.4,2026-10-06,0,0
+APP100169,36,Salaried,Bachelor,Single,0.0,432544.0,184213.0,36,632.0,88355.0,Urban,Education,1.6,2023-02-01,1,1
+APP100170,22,Self-employed,Bachelor,Married,1.0,574112.0,366814.0,180,636.0,154513.0,Rural,Vehicle,12.1,2023-04-11,2,0
+APP100171,25,Salaried,Diploma,Divorced,0.0,343596.0,70661.0,12,714.0,80727.0,Urban,Vehicle,2.2,2023-12-04,0,0
+APP100172,25,Self-employed,Doctorate,Married,0.0,848020.0,719244.0,120,812.0,56324.0,Urban,Vehicle,3.5,2024-01-22,0,0
+APP100173,55,Self-employed,Bachelor,Married,1.0,525705.0,76582.0,60,733.0,87366.0,Semiurban,Home,,2024-01-27,1,0
+APP100174,53,Contract,Diploma,Divorced,0.0,449209.0,103470.0,24,,81650.0,Rural,Personal,4.1,2024-08-06,0,1
+APP100175,52,Salaried,High School,Married,1.0,855114.0,107145.0,24,,277038.0,Urban,Personal,6.1,2024-03-22,0,1
+APP100176,41,Contract,High School,Single,0.0,346516.0,166366.0,240,687.0,56532.0,Urban,Personal,1.9,2025-03-26,0,0
+APP100177,53,Self-employed,Bachelor,Married,2.0,993018.0,809608.0,12,708.0,23257.0,Rural,Vehicle,11.2,2026-04-10,1,0
+APP100178,28,Salaried,Master,Single,0.0,499639.0,395096.0,12,,28112.0,Semiurban,Education,11.2,2025-02-03,0,0
+APP100179,61,Self-employed,Bachelor,Single,3.0,1229638.0,986922.0,12,652.0,287378.0,Rural,Education,10.7,2024-04-09,0,0
+APP100180,43,Contract,High School,Married,0.0,523725.0,306354.0,84,736.0,52924.0,Semiurban,,9.7,2025-03-06,0,0
+APP100181,63,Salaried,Master,Divorced,1.0,920137.0,461477.0,240,751.0,214105.0,Semiurban,Education,7.4,2025-05-18,0,0
+APP100182,27,Contract,Diploma,Single,0.0,717470.0,376186.0,24,684.0,191499.0,Urban,Education,4.4,2026-06-08,0,1
+APP100183,43,Salaried,Master,Married,0.0,978596.0,176884.0,180,602.0,412359.0,Urban,Business,2.9,2026-08-19,0,0
+APP100184,52,Self-employed,Diploma,Single,1.0,690519.0,551405.0,120,661.0,208467.0,Semiurban,Home,13.4,2024-01-24,0,0
+APP100185,43,Unemployed,Bachelor,Single,2.0,260370.0,176091.0,36,,8683.0,Semiurban,Home,10.8,2026-07-09,1,0
+APP100186,41,Salaried,Master,Single,3.0,1132076.0,505912.0,12,,207978.0,Rural,Personal,3.5,2026-02-17,0,0
+APP100187,28,Contract,Diploma,Married,0.0,619397.0,249511.0,60,697.0,223718.0,Semiurban,Personal,7.2,2023-06-29,0,0
+APP100188,38,Salaried,Bachelor,Married,0.0,1003457.0,733010.0,12,662.0,132498.0,Urban,Personal,5.5,2025-02-20,0,0
+APP100189,31,Self-employed,Doctorate,Single,2.0,950139.0,281515.0,24,696.0,396910.0,Semiurban,Vehicle,1.4,2023-08-02,0,1
+APP100190,34,Self-employed,High School,Single,1.0,424817.0,214451.0,60,707.0,105131.0,Semiurban,Education,7.9,2024-11-17,2,1
+APP100191,51,Salaried,High School,Single,0.0,393010.0,279516.0,180,697.0,23483.0,Semiurban,Home,4.9,2023-03-04,0,0
+APP100192,49,Salaried,Bachelor,Single,2.0,932079.0,765664.0,240,602.0,115502.0,Rural,Vehicle,2.2,2024-02-24,0,0
+APP100193,48,Salaried,Diploma,Married,1.0,550147.0,50000.0,84,664.0,225400.0,Semiurban,Business,0.0,2025-04-03,0,1
+APP100194,37,Salaried,High School,Married,2.0,1087904.0,344064.0,36,707.0,485562.0,Urban,Vehicle,0.0,2024-03-01,0,1
+APP100195,64,Salaried,Bachelor,Married,0.0,589316.0,155861.0,36,783.0,230480.0,Semiurban,Education,5.1,2023-01-15,0,0
+APP100196,24,Salaried,Bachelor,Married,1.0,1141214.0,830622.0,84,662.0,180187.0,Semiurban,Home,6.6,2024-06-27,0,0
+APP100197,36,Salaried,Diploma,Married,0.0,,769331.0,24,716.0,287625.0,Rural,Education,2.6,2025-01-27,0,1
+APP100198,26,Salaried,Diploma,Single,2.0,761552.0,414933.0,60,737.0,88003.0,Urban,Business,10.3,2025-12-04,1,0
+APP100199,36,Self-employed,Master,Single,0.0,529147.0,162444.0,120,667.0,98075.0,Semiurban,Education,,2023-07-11,0,0
+APP100200,64,Self-employed,Bachelor,Divorced,,738638.0,244378.0,180,755.0,236203.0,Semiurban,Education,9.9,2024-10-29,0,0
+APP100201,37,Self-employed,Master,Married,2.0,1252681.0,662792.0,12,758.0,546955.0,Semiurban,Personal,6.1,2023-10-06,0,0
+APP100202,61,Salaried,Bachelor,Divorced,2.0,630904.0,191014.0,36,770.0,131768.0,Urban,Vehicle,3.1,2023-08-04,1,0
+APP100203,43,Contract,Master,Married,0.0,870544.0,470833.0,36,710.0,203019.0,Rural,Vehicle,7.6,2023-06-20,0,0
+APP100204,52,Self-employed,Bachelor,Married,0.0,666787.0,582783.0,60,833.0,76462.0,Rural,Business,,2025-11-29,0,0
+APP100205,41,Salaried,High School,Divorced,1.0,696108.0,232579.0,24,640.0,134617.0,Semiurban,,9.7,2026-07-11,0,0
+APP100206,32,Salaried,Master,Married,1.0,1677145.0,676822.0,240,818.0,78990.0,Semiurban,Personal,2.3,2025-07-17,0,0
+APP100207,55,,,Single,3.0,1258812.0,174250.0,240,730.0,489919.0,Urban,Home,11.6,2024-06-13,0,0
+APP100208,64,Salaried,High School,Single,0.0,679016.0,170901.0,36,767.0,,Semiurban,Home,5.3,2026-08-21,0,0
+APP100209,32,Salaried,High School,Single,3.0,731372.0,523522.0,48,659.0,229589.0,Semiurban,Vehicle,12.3,2024-11-27,0,1
+APP100210,56,,Bachelor,,0.0,441838.0,179072.0,48,735.0,60746.0,Semiurban,Education,1.4,2025-01-11,0,0
+APP100211,32,Salaried,High School,Single,0.0,591013.0,126363.0,12,773.0,132817.0,Urban,Personal,3.6,2025-06-07,0,0
+APP100212,53,Salaried,Diploma,Married,0.0,770578.0,146746.0,180,609.0,108706.0,Semiurban,Education,8.9,2025-07-05,0,0
+APP100213,56,Unemployed,,Married,2.0,1037750.0,196550.0,180,669.0,199280.0,Urban,Education,12.9,2024-11-20,0,0
+APP100214,41,Self-employed,Bachelor,Married,0.0,981463.0,576370.0,36,541.0,250385.0,Semiurban,Home,15.3,2024-11-02,0,1
+APP100215,54,Salaried,Bachelor,Single,0.0,353145.0,141190.0,60,668.0,104384.0,Semiurban,Education,7.2,2024-03-21,1,0
+APP100216,33,Contract,Bachelor,Married,,1112442.0,557707.0,48,627.0,472035.0,Urban,Education,16.2,2025-08-11,0,1
+APP100217,24,Contract,Diploma,Single,1.0,619026.0,291694.0,36,666.0,100806.0,Semiurban,Education,5.6,2025-07-30,0,0
+APP100218,25,Salaried,High School,Single,0.0,377710.0,59256.0,36,850.0,102544.0,Rural,Business,12.5,2024-09-02,0,0
+APP100219,41,Self-employed,Bachelor,Single,0.0,1355579.0,686115.0,12,792.0,552724.0,Semiurban,Education,2.3,2025-09-23,0,0
+APP100220,61,Salaried,Diploma,Single,1.0,1453567.0,291016.0,180,586.0,210476.0,Urban,Home,9.1,2023-07-12,0,0
+APP100221,26,Salaried,Bachelor,Single,0.0,751471.0,571917.0,84,716.0,294555.0,Semiurban,Home,0.0,2024-08-05,1,1
+APP100222,41,Self-employed,High School,Married,0.0,959881.0,175765.0,240,732.0,414427.0,Urban,Home,1.4,2026-10-13,0,0
+APP100223,52,Salaried,High School,Married,1.0,991352.0,550541.0,12,658.0,381098.0,Semiurban,Business,9.3,2025-10-24,0,1
+APP100224,30,Self-employed,Diploma,Married,0.0,1400587.0,316670.0,84,692.0,371212.0,Semiurban,Personal,0.4,2025-10-05,0,0
+APP100225,53,Contract,Bachelor,Single,1.0,970111.0,626669.0,84,698.0,320631.0,Urban,Personal,9.1,2026-04-23,0,0
+APP100226,34,Salaried,Diploma,Married,0.0,313169.0,50000.0,84,592.0,71045.0,Semiurban,Vehicle,11.5,2025-05-02,0,1
+APP100227,57,Self-employed,Master,Married,0.0,1963270.0,1512622.0,240,613.0,543472.0,Semiurban,Home,4.5,2025-07-16,0,0
+APP100228,47,Salaried,Diploma,Single,0.0,1168041.0,264016.0,48,691.0,512798.0,Rural,Business,2.2,2024-11-04,0,0
+APP100229,45,Contract,Bachelor,Married,,491142.0,335931.0,24,686.0,62857.0,Urban,Home,4.6,2026-03-02,1,0
+APP100230,28,Salaried,Bachelor,Married,0.0,368956.0,236916.0,12,634.0,133118.0,Urban,Business,2.2,2025-09-23,0,0
+APP100231,41,Self-employed,High School,Married,0.0,858013.0,378544.0,60,628.0,203933.0,Semiurban,Vehicle,6.5,2025-01-02,0,0
+APP100232,59,Self-employed,Bachelor,Single,3.0,557760.0,162172.0,24,674.0,53576.0,Urban,Personal,7.5,2023-06-27,2,0
+APP100233,21,Salaried,Diploma,Married,2.0,779357.0,347347.0,24,738.0,,Semiurban,Business,5.5,2026-02-02,0,0
+APP100234,55,Self-employed,Bachelor,Single,0.0,978329.0,740086.0,24,675.0,352926.0,Urban,Business,15.4,2024-04-01,0,0
+APP100235,43,Self-employed,High School,Single,1.0,476005.0,329197.0,36,785.0,125934.0,Urban,Education,3.4,2024-05-17,0,0
+APP100236,53,Self-employed,Master,Single,1.0,351818.0,148899.0,24,635.0,133725.0,Semiurban,Personal,14.0,2023-06-24,2,1
+APP100237,50,Self-employed,Master,Divorced,2.0,803657.0,276899.0,60,693.0,142507.0,Urban,Education,1.8,2023-10-31,0,0
+APP100238,40,Unemployed,High School,Single,0.0,484738.0,220289.0,84,657.0,200158.0,Semiurban,Business,7.4,2023-06-26,0,0
+APP100239,34,Salaried,Bachelor,Single,0.0,704385.0,136757.0,36,718.0,210454.0,Urban,Vehicle,12.9,2023-05-17,0,0
+APP100240,49,Salaried,Master,Single,0.0,310487.0,163175.0,24,629.0,113439.0,Semiurban,Education,12.7,2023-01-30,0,0
+APP100241,27,Salaried,Diploma,Married,0.0,565818.0,167438.0,84,,77734.0,Urban,Personal,4.9,2024-02-17,0,0
+APP100242,47,Self-employed,Master,Married,0.0,963137.0,250211.0,12,570.0,204026.0,Rural,Vehicle,9.8,2025-11-24,0,0
+APP100243,25,Salaried,Bachelor,Married,3.0,907084.0,664597.0,120,792.0,372934.0,Rural,Home,9.1,2026-04-24,1,0
+APP100244,50,Salaried,Master,Single,3.0,421313.0,162323.0,48,686.0,17647.0,Urban,Vehicle,4.3,2023-11-15,0,0
+APP100245,49,Salaried,Doctorate,Single,0.0,341869.0,224781.0,48,716.0,66224.0,Semiurban,Vehicle,10.1,2024-08-16,0,1
+APP100246,24,,High School,Married,1.0,655660.0,90940.0,36,767.0,233111.0,Urban,Education,16.3,2026-03-10,0,0
+APP100247,55,,,Single,1.0,,739141.0,36,736.0,300744.0,Semiurban,Home,,2025-09-16,0,0
+APP100248,39,Self-employed,Bachelor,Married,1.0,812259.0,469773.0,24,633.0,313693.0,Urban,Home,9.8,2026-06-20,0,1
+APP100249,56,Salaried,High School,Married,1.0,490431.0,211139.0,84,719.0,165735.0,Semiurban,Vehicle,10.4,2024-08-11,0,1
+APP100250,22,Unemployed,Diploma,Married,0.0,765689.0,97599.0,24,801.0,327140.0,Urban,Education,0.0,2023-08-24,0,0
+APP100251,29,Salaried,Doctorate,Divorced,2.0,1485145.0,1144252.0,120,622.0,347898.0,Rural,Home,9.3,2023-07-20,1,1
+APP100252,43,Salaried,High School,Married,4.0,727637.0,460472.0,36,818.0,209883.0,Semiurban,,1.9,2025-09-19,0,0
+APP100253,29,Contract,,Single,2.0,264738.0,151510.0,84,705.0,101795.0,Semiurban,Vehicle,4.1,2023-02-06,0,0
+APP100254,35,Contract,Master,Married,,726859.0,,60,652.0,233850.0,Urban,Home,17.8,2024-10-06,1,0
+APP100255,50,Salaried,Diploma,Single,1.0,2000493.0,1359291.0,84,622.0,127800.0,Urban,Vehicle,5.7,2024-05-09,0,0
+APP100256,27,Salaried,Bachelor,Married,0.0,320188.0,129234.0,120,665.0,56932.0,Urban,Vehicle,3.3,2026-07-10,1,0
+APP100257,51,Self-employed,Doctorate,Single,0.0,660714.0,540403.0,84,,170209.0,Rural,Home,12.8,2026-10-29,0,0
+APP100258,25,Contract,Bachelor,Single,1.0,573919.0,186820.0,180,653.0,197731.0,Rural,Business,2.3,2024-11-09,0,0
+APP100259,28,Salaried,High School,Married,0.0,,263853.0,36,663.0,173858.0,Urban,Home,4.8,2025-03-23,0,0
+APP100260,47,Salaried,High School,Single,2.0,723291.0,521327.0,120,610.0,256295.0,Semiurban,Education,13.2,2024-06-14,0,0
+APP100261,56,Self-employed,Master,Single,1.0,1216772.0,729430.0,48,729.0,462583.0,Urban,Business,7.2,2025-12-23,1,0
+APP100262,28,Self-employed,Diploma,Married,1.0,681028.0,384092.0,84,666.0,91261.0,Urban,Personal,0.0,2024-02-17,0,0
+APP100263,34,Self-employed,Bachelor,Single,0.0,1312206.0,834632.0,60,639.0,373877.0,Semiurban,Education,9.7,2025-11-08,1,0
+APP100264,62,Self-employed,High School,Married,4.0,609270.0,259851.0,240,659.0,158141.0,,Education,5.0,2026-06-19,0,0
+APP100265,65,,Bachelor,Single,0.0,536141.0,410870.0,36,703.0,63129.0,Urban,Business,14.7,2023-08-29,0,0
+APP100266,47,Contract,Master,Single,0.0,449853.0,173815.0,60,685.0,103758.0,Semiurban,Personal,4.0,2023-11-13,0,0
+APP100267,41,Contract,Bachelor,Single,0.0,239266.0,212322.0,24,634.0,61224.0,Urban,Vehicle,12.3,2024-06-13,2,0
+APP100268,36,Self-employed,Doctorate,Married,2.0,756462.0,113530.0,84,688.0,280992.0,Rural,Business,15.9,2026-03-04,0,0
+APP100269,48,Salaried,Diploma,Divorced,4.0,2011573.0,1212058.0,12,677.0,438976.0,Semiurban,Education,2.7,2025-06-16,0,0
+APP100270,47,Salaried,Bachelor,Single,0.0,836312.0,656807.0,48,606.0,45825.0,Rural,Home,6.0,2023-09-29,1,0
+APP100271,34,Self-employed,Master,Divorced,3.0,948312.0,316942.0,12,661.0,217673.0,Semiurban,Business,8.9,2024-05-30,0,0
+APP100272,22,Salaried,Bachelor,Married,0.0,517912.0,162014.0,36,718.0,196972.0,Rural,Personal,2.7,2025-06-19,0,0
+APP100273,27,Unemployed,Diploma,Married,2.0,568266.0,266207.0,60,717.0,150954.0,Urban,Home,8.4,2026-09-12,1,1
+APP100274,64,Salaried,Master,Married,0.0,1117138.0,711338.0,36,665.0,175516.0,Semiurban,Home,5.9,2024-09-23,1,0
+APP100275,39,Self-employed,Diploma,Married,1.0,1962067.0,805850.0,48,724.0,816254.0,Semiurban,Personal,5.8,2023-04-15,0,0
+APP100276,42,Contract,Bachelor,Married,2.0,1473423.0,368384.0,24,616.0,128085.0,Rural,Education,7.2,2023-05-27,0,0
+APP100277,42,Salaried,Doctorate,Married,1.0,1012175.0,639431.0,120,,162512.0,Urban,Vehicle,7.4,2023-02-10,0,0
+APP100278,56,Salaried,High School,Married,0.0,662689.0,227780.0,180,664.0,137818.0,Semiurban,Business,,2023-06-26,0,1
+APP100279,23,Self-employed,Diploma,Single,2.0,729470.0,288630.0,60,777.0,246072.0,Semiurban,Vehicle,4.0,2024-07-31,0,0
+APP100280,24,Self-employed,High School,Single,4.0,429466.0,216985.0,12,691.0,162927.0,Urban,Vehicle,4.2,2024-01-30,0,0
+APP100281,33,Salaried,Diploma,Married,1.0,293090.0,50000.0,12,662.0,13242.0,Rural,Vehicle,6.4,2024-02-26,0,0
+APP100282,42,Self-employed,High School,Single,2.0,349755.0,65116.0,120,780.0,126113.0,Urban,Education,6.8,2025-12-09,0,0
+APP100283,51,Contract,Bachelor,Single,2.0,668050.0,596543.0,240,661.0,220341.0,Urban,Home,4.8,2024-10-29,1,0
+APP100284,43,Salaried,High School,Single,,553564.0,247664.0,180,825.0,224028.0,Semiurban,Vehicle,8.6,2025-10-17,0,0
+APP100285,40,Salaried,Bachelor,Single,3.0,289681.0,50000.0,48,647.0,117955.0,Semiurban,Vehicle,0.0,2025-01-28,0,0
+APP100286,63,Salaried,Diploma,Married,0.0,636793.0,423869.0,60,614.0,225639.0,Urban,Home,3.3,2023-10-15,1,1
+APP100287,28,Salaried,Diploma,Married,2.0,545572.0,355101.0,24,669.0,55532.0,Urban,Business,5.6,2026-08-20,1,0
+APP100288,46,Salaried,Diploma,Married,0.0,341008.0,,12,664.0,52844.0,Urban,Home,2.7,2024-10-28,0,0
+APP100289,45,Salaried,Bachelor,Single,0.0,530263.0,273363.0,120,627.0,224098.0,Rural,Personal,15.1,2026-03-16,2,0
+APP100290,42,Self-employed,Bachelor,Married,1.0,544816.0,248596.0,48,849.0,151031.0,Rural,Home,7.1,2023-05-16,0,0
+APP100291,57,Salaried,Diploma,Single,1.0,463044.0,213683.0,60,701.0,116533.0,Semiurban,Vehicle,7.9,2026-04-04,0,0
+APP100292,33,Unemployed,Master,Married,3.0,1082081.0,862852.0,48,,447716.0,Urban,Home,4.6,2025-09-29,0,0
+APP100293,63,Salaried,Bachelor,Married,4.0,228235.0,50000.0,36,650.0,,Semiurban,Vehicle,6.9,2023-12-16,0,0
+APP100294,35,Salaried,High School,Married,0.0,218063.0,62792.0,240,642.0,72576.0,Rural,Business,0.9,2026-01-15,0,0
+APP100295,45,Self-employed,Master,Married,0.0,651176.0,210257.0,180,747.0,260059.0,Semiurban,Home,6.2,2025-11-05,0,0
+APP100296,44,Contract,Diploma,Divorced,0.0,685290.0,444045.0,120,571.0,,Urban,Education,2.3,2026-06-04,1,1
+APP100297,59,Salaried,High School,Married,1.0,811830.0,437538.0,48,606.0,280685.0,Urban,Business,5.6,2023-10-21,0,1
+APP100298,40,Salaried,Bachelor,Married,1.0,483251.0,344119.0,120,664.0,210323.0,Rural,Education,0.0,2026-05-25,0,0
+APP100299,33,Salaried,High School,Married,3.0,392334.0,191294.0,48,768.0,16109.0,Rural,Home,1.4,2025-12-02,0,0
+APP100300,21,Salaried,Diploma,Single,2.0,647390.0,434410.0,60,656.0,75039.0,Urban,Business,14.3,2024-04-18,0,0
+APP100301,37,Salaried,Bachelor,Divorced,0.0,509844.0,275829.0,24,707.0,184261.0,Rural,Home,11.2,2024-05-05,1,1
+APP100302,58,Salaried,High School,Single,1.0,1525476.0,565466.0,120,682.0,371637.0,Urban,Home,13.6,2023-12-23,0,0
+APP100303,21,Salaried,Master,Single,1.0,543836.0,205979.0,12,764.0,,Urban,Education,13.9,2024-10-29,0,0
+APP100304,61,,Master,Divorced,1.0,631262.0,457012.0,120,577.0,,Semiurban,Vehicle,10.4,2026-06-09,0,1
+APP100305,45,,Bachelor,Married,0.0,2536277.0,863135.0,84,728.0,404145.0,Semiurban,Home,4.7,2026-03-18,0,0
+APP100306,27,Self-employed,Bachelor,Single,1.0,583973.0,315932.0,12,667.0,92301.0,Urban,Business,1.8,2023-07-24,0,0
+APP100307,34,Salaried,Bachelor,Single,1.0,882588.0,458515.0,60,740.0,350740.0,Rural,Education,12.7,2023-07-03,0,0
+APP100308,45,Salaried,Doctorate,Single,0.0,927453.0,142634.0,36,627.0,282572.0,Rural,Personal,7.3,2023-03-25,1,1
+APP100309,35,Salaried,Diploma,Married,2.0,971891.0,783553.0,60,682.0,326569.0,,Education,19.5,2025-05-09,0,0
+APP100310,25,Salaried,High School,Single,0.0,762186.0,538611.0,12,673.0,19691.0,Semiurban,Education,5.2,2024-03-15,0,0
+APP100311,50,Self-employed,Bachelor,Divorced,1.0,723127.0,399118.0,120,,147395.0,Rural,Personal,16.9,2025-12-01,0,0
+APP100312,51,Contract,Bachelor,Divorced,1.0,686878.0,390132.0,60,597.0,107608.0,Semiurban,Home,6.2,2025-11-30,0,0
+APP100313,26,Contract,High School,Married,3.0,473511.0,229002.0,48,642.0,182931.0,,Vehicle,,2023-10-04,0,0
+APP100314,33,Unemployed,Bachelor,Married,0.0,777441.0,557263.0,180,688.0,334427.0,Semiurban,Business,15.5,2025-08-29,0,0
+APP100315,31,Unemployed,,Single,0.0,1983717.0,442863.0,84,631.0,400783.0,Urban,Vehicle,1.9,2025-12-06,0,0
+APP100316,50,Unemployed,Master,Single,0.0,1265025.0,639776.0,84,,554607.0,Urban,Personal,4.6,2026-10-13,0,0
+APP100317,53,Salaried,Diploma,Married,1.0,768259.0,299329.0,24,557.0,20109.0,Rural,Vehicle,1.8,2025-10-08,1,0
+APP100318,53,Salaried,High School,Single,0.0,1040731.0,482718.0,60,656.0,166579.0,Rural,Education,0.9,2024-05-18,0,0
+APP100319,63,Salaried,High School,Single,2.0,402996.0,87119.0,120,,142346.0,Urban,Personal,10.3,2026-10-31,0,1
+APP100320,55,Self-employed,Diploma,Single,0.0,563231.0,122220.0,240,726.0,98477.0,Urban,Vehicle,6.0,2024-01-22,0,0
+APP100321,35,Salaried,Diploma,Single,0.0,1094759.0,931107.0,84,674.0,455435.0,Rural,Personal,7.3,2026-02-01,0,0
+APP100322,25,Contract,High School,Married,1.0,1472791.0,324158.0,24,696.0,167810.0,Urban,Home,9.8,2024-06-13,0,1
+APP100323,48,Self-employed,Diploma,Married,2.0,425386.0,95202.0,120,626.0,154048.0,Urban,Vehicle,0.0,2026-08-02,1,1
+APP100324,62,Salaried,High School,Married,3.0,498199.0,261274.0,12,786.0,,Rural,Education,13.4,2025-12-31,0,0
+APP100325,64,Salaried,Diploma,Married,2.0,2157551.0,1200123.0,36,814.0,226015.0,Rural,Education,5.3,2025-04-19,0,0
+APP100326,31,Salaried,Diploma,Married,1.0,685341.0,182647.0,240,691.0,145068.0,Rural,Personal,9.7,2023-10-28,0,0
+APP100327,31,Salaried,Diploma,Married,2.0,1771924.0,988171.0,180,848.0,755415.0,Semiurban,Personal,10.1,2023-09-21,0,0
+APP100328,22,Contract,Diploma,Married,2.0,728322.0,433349.0,240,636.0,197918.0,Urban,Business,13.9,2026-08-19,0,0
+APP100329,27,Self-employed,High School,Married,0.0,744246.0,208901.0,48,,218112.0,Rural,Business,6.5,2026-01-27,2,0
+APP100330,45,Self-employed,High School,Single,1.0,549469.0,497723.0,120,634.0,13289.0,Urban,Vehicle,0.0,2024-12-18,0,0
+APP100331,45,Salaried,High School,Divorced,2.0,1091576.0,434747.0,120,666.0,48405.0,Urban,Personal,7.3,2026-05-13,0,0
+APP100332,37,Salaried,Bachelor,Single,0.0,1371623.0,806115.0,36,830.0,66910.0,Rural,Business,8.0,2026-01-01,1,0
+APP100333,34,Salaried,Doctorate,Single,2.0,367867.0,50000.0,240,662.0,137011.0,Semiurban,Home,,2024-06-26,0,0
+APP100334,58,Self-employed,Master,Single,,535459.0,435018.0,240,624.0,65244.0,Rural,Personal,7.7,2026-03-04,0,0
+APP100335,41,Self-employed,Bachelor,Single,1.0,1075204.0,825437.0,12,622.0,173538.0,Urban,Vehicle,5.2,2026-01-19,1,1
+APP100336,57,Salaried,Bachelor,Single,0.0,605298.0,152436.0,120,754.0,170863.0,Rural,Education,0.3,2024-11-01,0,0
+APP100337,64,Contract,Diploma,Married,2.0,495521.0,97343.0,60,745.0,134336.0,Semiurban,Education,10.4,2023-01-28,0,0
+APP100338,35,Salaried,Master,Married,3.0,1132543.0,394584.0,120,648.0,222576.0,Semiurban,Personal,4.2,2025-11-03,0,0
+APP100339,30,Contract,Master,Single,0.0,1192577.0,197086.0,60,558.0,26057.0,Rural,Vehicle,5.0,2024-04-20,1,0
+APP100340,63,Salaried,,Married,0.0,507588.0,446487.0,36,607.0,108283.0,Urban,Vehicle,4.7,2024-05-25,0,0
+APP100341,49,Salaried,Master,Single,0.0,730533.0,452294.0,12,792.0,246715.0,Semiurban,Home,13.2,2025-09-26,0,0
+APP100342,34,Contract,Bachelor,Married,0.0,334391.0,153256.0,60,725.0,40512.0,Semiurban,Vehicle,6.8,2026-02-09,0,0
+APP100343,48,Salaried,Master,Single,4.0,,252886.0,180,684.0,128931.0,Rural,Home,7.4,2023-05-04,1,1
+APP100344,44,Salaried,Master,Single,1.0,695940.0,513935.0,180,801.0,18453.0,Rural,Education,4.8,2026-02-27,0,0
+APP100345,61,Salaried,Diploma,Married,0.0,661325.0,388773.0,36,807.0,271436.0,Semiurban,Personal,9.3,2024-02-15,0,0
+APP100346,32,Salaried,Master,Married,0.0,381912.0,131866.0,180,678.0,163656.0,Urban,Education,13.7,2025-03-03,1,0
+APP100347,65,Self-employed,High School,Married,4.0,438424.0,143073.0,48,,9233.0,Urban,Personal,10.2,2026-04-30,0,0
+APP100348,63,Contract,Doctorate,Married,0.0,361838.0,152756.0,84,642.0,78469.0,Rural,Personal,10.4,2023-11-02,0,0
+APP100349,29,Contract,Master,Married,2.0,834853.0,426966.0,36,662.0,165254.0,Rural,Home,10.0,2023-11-06,0,0
+APP100350,28,Salaried,High School,Married,0.0,220252.0,50000.0,60,583.0,84138.0,Rural,Education,0.1,2026-09-20,0,1
+APP100351,44,Salaried,Bachelor,Single,0.0,372637.0,206124.0,60,583.0,94095.0,Urban,Education,2.6,2024-06-06,0,0
+APP100352,23,Salaried,High School,Single,2.0,233307.0,81474.0,120,568.0,66000.0,Urban,Vehicle,6.0,2026-08-18,0,0
+APP100353,34,Salaried,Master,Single,0.0,818468.0,396114.0,60,750.0,87640.0,Semiurban,Personal,3.4,2024-05-15,0,0
+APP100354,40,Salaried,Master,Single,2.0,241162.0,50000.0,60,579.0,12815.0,Semiurban,Vehicle,1.7,2025-05-17,0,0
+APP100355,64,Contract,Bachelor,Married,0.0,661443.0,225617.0,84,807.0,210142.0,Urban,Home,0.0,2024-12-15,0,0
+APP100356,65,Contract,Master,Single,2.0,1601523.0,660920.0,48,633.0,459462.0,Semiurban,Education,0.3,2026-10-09,0,0
+APP100357,27,Self-employed,High School,Married,2.0,1631673.0,790957.0,60,793.0,616611.0,Urban,Vehicle,5.7,2025-02-09,1,0
+APP100358,61,Salaried,Diploma,,2.0,240741.0,60698.0,12,656.0,92255.0,Semiurban,Vehicle,6.7,2024-12-04,0,0
+APP100359,25,Salaried,Bachelor,Married,0.0,765935.0,499913.0,180,578.0,223151.0,Urban,Education,3.0,2024-10-14,0,1
+APP100360,54,Salaried,High School,Married,2.0,377299.0,152420.0,24,763.0,94889.0,Urban,Business,7.4,2024-06-09,0,0
+APP100361,59,Salaried,Bachelor,Single,4.0,,50000.0,180,771.0,139281.0,Urban,Vehicle,4.8,2024-09-08,0,0
+APP100362,61,Salaried,Diploma,Single,0.0,610674.0,280177.0,120,621.0,222617.0,Rural,Vehicle,12.5,2024-10-06,0,0
+APP100363,31,Salaried,Diploma,Married,0.0,1277337.0,388747.0,240,658.0,510223.0,Semiurban,Home,6.2,2025-12-05,0,0
+APP100364,61,Salaried,Bachelor,Married,2.0,903960.0,353983.0,12,621.0,405165.0,Rural,Vehicle,10.5,2023-03-06,1,0
+APP100365,26,Unemployed,Master,Single,0.0,438625.0,446245.0,24,672.0,84877.0,Semiurban,Education,8.0,2024-12-02,0,0
+APP100366,44,Salaried,Diploma,Single,2.0,957898.0,267363.0,12,687.0,314461.0,Urban,Business,0.0,2025-02-07,0,0
+APP100367,42,Unemployed,Master,Married,2.0,189224.0,73108.0,48,657.0,59770.0,Urban,Vehicle,6.5,2025-11-20,0,1
+APP100368,35,Salaried,Bachelor,Married,0.0,429599.0,287445.0,240,562.0,40761.0,Semiurban,,0.8,2025-07-21,0,0
+APP100369,21,Self-employed,Diploma,Single,1.0,413159.0,212701.0,120,642.0,121351.0,Urban,Education,6.5,2024-08-27,0,0
+APP100370,55,Salaried,Bachelor,Married,1.0,678611.0,50000.0,120,726.0,,Semiurban,Business,3.3,2023-06-03,0,0
+APP100371,36,Salaried,Bachelor,Married,0.0,581387.0,143736.0,180,666.0,124285.0,Rural,Home,8.9,2024-06-04,0,0
+APP100372,50,Salaried,Diploma,Single,3.0,601342.0,415687.0,12,,58606.0,Rural,Education,0.3,2023-12-24,0,1
+APP100373,39,Salaried,Bachelor,Married,0.0,590445.0,212523.0,180,619.0,200892.0,Urban,Home,7.1,2023-10-13,0,1
+APP100374,37,Contract,High School,Single,0.0,658060.0,470564.0,36,640.0,210655.0,Semiurban,Education,9.9,2025-10-06,0,0
+APP100375,60,Salaried,Diploma,Married,2.0,874843.0,659036.0,120,772.0,217735.0,Urban,Business,11.5,2024-10-31,0,1
+APP100376,25,Self-employed,Bachelor,Married,0.0,705639.0,225035.0,120,606.0,61665.0,Urban,Business,3.2,2026-01-16,1,0
+APP100377,54,Salaried,Bachelor,Single,2.0,555895.0,315131.0,120,727.0,144228.0,Semiurban,Business,7.1,2023-07-13,0,0
+APP100378,54,Salaried,Master,Married,0.0,810729.0,185148.0,48,683.0,51122.0,Semiurban,Business,7.9,2026-10-12,0,0
+APP100379,38,Salaried,Diploma,Married,1.0,1023865.0,454794.0,84,696.0,169890.0,Semiurban,Vehicle,14.7,2024-10-24,0,0
+APP100380,32,Salaried,Doctorate,Divorced,0.0,478740.0,141698.0,60,632.0,86228.0,Urban,Personal,0.0,2023-12-21,1,0
+APP100381,21,Unemployed,Master,Single,2.0,629107.0,415391.0,84,657.0,251563.0,Rural,Vehicle,2.4,2024-05-23,0,0
+APP100382,63,Contract,Doctorate,Married,2.0,1231540.0,421217.0,60,680.0,244697.0,Rural,Vehicle,21.0,2026-03-24,0,0
+APP100383,63,,Master,Divorced,2.0,354410.0,160241.0,48,646.0,98293.0,Semiurban,Business,5.6,2025-09-20,1,1
+APP100384,31,Salaried,High School,Married,4.0,1753832.0,1482491.0,24,702.0,694789.0,Rural,Vehicle,0.0,2023-08-29,0,0
+APP100385,22,Salaried,Bachelor,Single,2.0,311200.0,133872.0,48,710.0,63197.0,Urban,Home,4.1,2026-10-18,0,0
+APP100386,26,Contract,High School,Married,2.0,537550.0,471568.0,120,821.0,215016.0,Semiurban,Business,0.0,2023-07-03,0,1
+APP100387,24,Salaried,Master,Married,1.0,385433.0,235957.0,180,698.0,30325.0,Rural,Business,8.2,2024-01-21,0,0
+APP100388,58,Salaried,,Divorced,3.0,2165339.0,1095357.0,12,556.0,,Rural,Education,11.0,2025-10-17,0,0
+APP100389,61,Salaried,Diploma,Married,2.0,492813.0,334505.0,24,756.0,29930.0,Rural,Home,2.4,2025-01-11,0,0
+APP100390,27,Self-employed,Master,,3.0,493494.0,355896.0,60,667.0,128901.0,Semiurban,Business,4.6,2024-09-16,0,0
+APP100391,54,Self-employed,High School,Single,0.0,530097.0,113764.0,120,811.0,228806.0,Rural,Home,,2026-07-20,0,0
+APP100392,29,Self-employed,Bachelor,Married,1.0,685093.0,573031.0,24,776.0,207233.0,Semiurban,Education,,2026-01-16,2,0
+APP100393,37,Self-employed,Bachelor,Divorced,2.0,542577.0,390914.0,36,647.0,156920.0,Urban,Education,0.4,2026-09-09,0,0
+APP100394,47,Salaried,High School,Single,0.0,604188.0,419738.0,12,727.0,84350.0,Urban,Business,5.9,2024-01-31,3,0
+APP100395,53,Contract,Bachelor,Married,0.0,120000.0,162180.0,12,641.0,50445.0,Rural,Personal,,2026-04-05,0,1
+APP100396,60,Salaried,Master,Divorced,4.0,670759.0,439798.0,24,680.0,149418.0,Semiurban,Home,5.5,2023-10-26,0,1
+APP100397,23,Self-employed,High School,Single,1.0,656397.0,344735.0,120,,88489.0,Semiurban,Home,0.7,2026-02-02,1,0
+APP100398,29,Salaried,Bachelor,Single,0.0,1150768.0,198724.0,180,,511759.0,Rural,Education,,2025-02-07,0,1
+APP100399,33,Unemployed,Diploma,Married,0.0,1335360.0,618141.0,60,738.0,269667.0,Semiurban,Personal,6.3,2025-04-17,0,1
+APP100400,34,Salaried,Bachelor,Married,1.0,586242.0,376041.0,24,685.0,105374.0,Urban,Home,9.7,2023-06-11,0,1
+APP100401,65,Salaried,High School,,1.0,1018309.0,710265.0,240,841.0,35675.0,Urban,Education,8.0,2026-05-15,0,0
+APP100402,55,Salaried,,Married,3.0,354642.0,59188.0,36,656.0,34282.0,Semiurban,Education,,2024-01-26,0,0
+APP100403,35,Salaried,Master,Married,4.0,991293.0,498913.0,24,576.0,364749.0,Rural,Vehicle,0.0,2025-04-17,3,1
+APP100404,64,Salaried,High School,Married,2.0,474428.0,309434.0,24,588.0,107960.0,Semiurban,Business,9.5,2023-08-21,0,1
+APP100405,43,Self-employed,Diploma,Married,2.0,338793.0,178774.0,48,776.0,145883.0,Semiurban,Vehicle,5.3,2026-07-20,0,0
+APP100406,43,Salaried,Bachelor,Married,0.0,586926.0,565471.0,120,675.0,32909.0,Semiurban,Education,6.2,2024-03-24,0,1
+APP100407,40,Contract,Bachelor,Married,3.0,1404213.0,1005847.0,48,690.0,399998.0,Semiurban,Personal,12.2,2025-12-03,0,0
+APP100408,27,Salaried,Bachelor,Single,0.0,718040.0,96672.0,60,645.0,236661.0,Rural,Vehicle,3.4,2025-12-07,0,0
+APP100409,63,Self-employed,High School,Married,0.0,1480360.0,279836.0,48,,425024.0,Urban,Home,13.8,2025-02-09,0,0
+APP100410,21,Salaried,High School,Single,4.0,430596.0,276869.0,240,629.0,106722.0,Semiurban,Personal,14.2,2023-06-19,0,1
+APP100411,28,Self-employed,Doctorate,Married,3.0,1156658.0,475995.0,120,711.0,310757.0,Semiurban,Vehicle,10.8,2024-01-27,0,0
+APP100412,31,Self-employed,Bachelor,,0.0,454085.0,348487.0,84,674.0,143721.0,Urban,Business,2.1,2025-05-06,0,0
+APP100413,33,Salaried,Master,Married,2.0,735759.0,233047.0,48,708.0,287831.0,Semiurban,Business,0.0,2025-01-20,0,1
+APP100414,26,Unemployed,Bachelor,Single,1.0,732269.0,127774.0,60,702.0,120552.0,Semiurban,Education,12.4,2025-03-29,0,0
+APP100415,21,Salaried,Master,Single,0.0,935230.0,350288.0,180,652.0,203554.0,Semiurban,Home,7.6,2023-12-16,0,0
+APP100416,51,Salaried,High School,Single,0.0,746115.0,473171.0,84,585.0,218941.0,Rural,Personal,3.3,2025-01-23,0,0
+APP100417,64,Self-employed,High School,Married,0.0,432863.0,336572.0,180,580.0,67143.0,Urban,Business,12.9,2023-04-30,0,1
+APP100418,26,Contract,Master,Married,1.0,1054837.0,768581.0,12,850.0,,Urban,Education,2.7,2024-11-08,0,0
+APP100419,34,Salaried,,Single,1.0,1684769.0,839280.0,180,776.0,733637.0,Urban,Personal,4.9,2023-05-08,0,0
+APP100420,43,Salaried,Diploma,Married,1.0,471482.0,359888.0,240,767.0,48908.0,Urban,Business,9.6,2025-07-18,0,0
+APP100421,62,Contract,Diploma,Married,0.0,236890.0,96172.0,120,636.0,28445.0,Semiurban,Business,1.4,2025-03-04,2,0
+APP100422,52,Self-employed,Bachelor,Single,3.0,855425.0,428108.0,240,681.0,244682.0,Rural,Home,6.5,2026-04-07,1,0
+APP100423,55,Unemployed,Bachelor,Married,2.0,541760.0,402914.0,84,627.0,28859.0,Semiurban,Business,12.4,2024-10-08,0,0
+APP100424,47,Salaried,High School,Married,3.0,604781.0,336254.0,36,595.0,20950.0,Urban,Vehicle,8.1,2023-08-15,1,1
+APP100425,39,Self-employed,Master,Single,0.0,882598.0,717333.0,84,642.0,41946.0,Urban,Home,13.2,2023-11-26,0,0
+APP100426,29,Salaried,Diploma,Married,1.0,505707.0,155484.0,84,766.0,36918.0,Urban,Vehicle,12.7,2026-02-13,0,0
+APP100427,59,Contract,Bachelor,Single,2.0,560654.0,116800.0,24,735.0,114684.0,Semiurban,Home,7.0,2026-09-03,0,1
+APP100428,57,Salaried,High School,Married,0.0,615175.0,374902.0,24,617.0,231664.0,Urban,Home,0.0,2023-03-28,0,0
+APP100429,22,Self-employed,High School,Divorced,0.0,1458753.0,1203818.0,36,660.0,243682.0,Semiurban,Business,,2025-08-04,0,0
+APP100430,53,Salaried,Bachelor,Married,0.0,660839.0,298780.0,60,,134704.0,Rural,Education,10.8,2024-11-05,1,0
+APP100431,24,Self-employed,Diploma,Married,0.0,329426.0,235258.0,24,643.0,91616.0,Semiurban,Vehicle,0.0,2023-12-27,0,0
+APP100432,54,Self-employed,Bachelor,Married,1.0,336716.0,50000.0,120,685.0,50481.0,Urban,Home,5.4,2024-12-17,0,0
+APP100433,58,Salaried,High School,Divorced,0.0,701730.0,567753.0,12,706.0,144550.0,Urban,Business,8.7,2026-08-03,0,0
+APP100434,26,Contract,Master,Single,0.0,349250.0,231382.0,240,705.0,65000.0,Semiurban,Business,14.3,2023-10-04,0,0
+APP100435,40,Salaried,Bachelor,Single,2.0,,52178.0,120,697.0,45971.0,Semiurban,Education,4.1,2026-03-17,0,0
+APP100436,26,Self-employed,Master,Married,0.0,921974.0,672927.0,48,638.0,172417.0,Urban,Home,3.8,2023-05-06,0,0
+APP100437,46,Salaried,High School,Single,0.0,947140.0,588509.0,48,644.0,23471.0,Rural,Home,6.7,2025-10-05,0,0
+APP100438,62,Salaried,Diploma,Single,,530859.0,341700.0,120,606.0,212923.0,Semiurban,Home,8.8,2023-04-15,0,0
+APP100439,24,Salaried,Diploma,Single,0.0,763937.0,309075.0,12,579.0,336330.0,Semiurban,Home,6.2,2023-03-26,0,0
+APP100440,38,Salaried,Bachelor,Married,0.0,720856.0,128810.0,120,673.0,281763.0,Urban,Personal,12.2,2023-02-22,0,0
+APP100441,64,Salaried,Diploma,Single,0.0,905333.0,771532.0,60,733.0,20342.0,Urban,Vehicle,3.0,2026-01-31,0,0
+APP100442,34,Self-employed,High School,Single,0.0,906494.0,591227.0,24,590.0,310819.0,Urban,Business,7.6,2025-03-14,0,0
+APP100443,26,Self-employed,Diploma,Single,1.0,155056.0,241838.0,240,698.0,41312.0,Urban,Personal,9.2,2025-08-24,0,0
+APP100444,42,Self-employed,Diploma,Single,0.0,,326135.0,84,731.0,34450.0,Semiurban,Personal,5.0,2023-08-06,0,0
+APP100445,43,Salaried,Diploma,Married,0.0,864213.0,703048.0,24,561.0,363946.0,Semiurban,Vehicle,11.2,2026-07-14,0,1
+APP100446,50,Salaried,High School,Single,4.0,518646.0,137657.0,84,662.0,183483.0,Rural,Education,7.7,2026-02-06,0,1
+APP100447,35,Salaried,Diploma,Married,,663072.0,268052.0,48,787.0,54688.0,Rural,,10.9,2024-11-15,1,0
+APP100448,64,Self-employed,Bachelor,Married,0.0,982261.0,600043.0,120,716.0,426830.0,Urban,Home,8.0,2026-06-12,0,0
+APP100449,44,Contract,Diploma,Single,0.0,679584.0,151244.0,60,558.0,50470.0,Urban,Business,8.9,2023-07-20,0,0
+APP100450,33,Salaried,Diploma,Married,1.0,1489697.0,326883.0,240,723.0,321048.0,Rural,Education,3.8,2024-02-14,2,1
+APP100451,64,Self-employed,Bachelor,Married,2.0,1208113.0,732971.0,240,631.0,106748.0,Rural,Vehicle,3.8,2023-03-09,0,1
+APP100452,62,Salaried,Master,Married,2.0,608966.0,509544.0,12,725.0,51508.0,Rural,Education,13.1,2023-08-19,1,0
+APP100453,43,Salaried,Diploma,Single,0.0,582918.0,368826.0,48,635.0,254243.0,Urban,Business,10.2,2026-03-24,0,0
+APP100454,22,,Bachelor,Single,0.0,135544.0,50000.0,24,677.0,36056.0,Urban,Home,1.9,2024-07-27,1,0
+APP100455,47,Salaried,Doctorate,Divorced,1.0,543156.0,443017.0,60,645.0,71395.0,Urban,Business,7.9,2025-06-22,0,0
+APP100456,45,Self-employed,Bachelor,Married,3.0,308794.0,76247.0,24,680.0,109267.0,Rural,Personal,0.0,2026-05-19,1,0
+APP100457,27,Contract,Master,Divorced,3.0,734102.0,240488.0,60,643.0,290965.0,Semiurban,Business,4.1,2025-12-05,0,1
+APP100458,49,Salaried,Master,Married,0.0,707015.0,644065.0,24,665.0,293107.0,Semiurban,Business,11.8,2024-07-13,0,0
+APP100459,58,Salaried,High School,Single,1.0,953074.0,670954.0,84,604.0,,Semiurban,Home,6.4,2024-05-02,0,0
+APP100460,25,Self-employed,,Married,0.0,1401280.0,1058741.0,60,712.0,573684.0,Urban,Business,7.6,2023-06-01,0,0
+APP100461,53,Unemployed,Bachelor,Married,2.0,640676.0,429733.0,240,691.0,188833.0,Semiurban,Business,0.0,2026-03-07,0,0
+APP100462,27,Self-employed,Doctorate,Married,3.0,2278338.0,,180,575.0,381076.0,Urban,Education,5.0,2026-10-10,2,0
+APP100463,54,Salaried,Bachelor,Single,1.0,738647.0,314132.0,84,745.0,308750.0,Semiurban,Education,8.7,2024-12-01,0,0
+APP100464,39,Self-employed,High School,Single,0.0,316193.0,184672.0,60,669.0,22979.0,Semiurban,Business,9.3,2024-11-30,0,0
+APP100465,21,Salaried,,Married,1.0,477151.0,476701.0,120,691.0,44177.0,,Home,11.8,2026-04-02,0,0
+APP100466,64,Unemployed,High School,Married,1.0,529515.0,404958.0,120,730.0,109369.0,,Vehicle,5.9,2024-04-24,0,0
+APP100467,28,Salaried,Bachelor,Married,2.0,900223.0,399734.0,24,701.0,127810.0,Rural,Business,6.2,2024-07-23,3,1
+APP100468,47,Self-employed,Bachelor,Single,0.0,386057.0,86057.0,48,756.0,109936.0,Semiurban,Personal,0.3,2026-06-05,0,0
+APP100469,29,Salaried,Bachelor,Single,3.0,551745.0,219232.0,240,661.0,225818.0,Urban,Vehicle,6.0,2024-06-15,0,0
+APP100470,62,Salaried,Master,Divorced,0.0,594904.0,171284.0,36,747.0,137508.0,Urban,Education,0.7,2026-07-22,0,0
+APP100471,54,Contract,Bachelor,Married,0.0,508012.0,379135.0,12,688.0,,Semiurban,Personal,0.0,2023-08-14,0,1
+APP100472,57,Self-employed,Bachelor,Married,0.0,1015616.0,311304.0,180,,205101.0,Urban,Home,1.6,2024-11-26,0,0
+APP100473,40,Salaried,Bachelor,Married,0.0,924912.0,436232.0,240,706.0,299907.0,Urban,Vehicle,14.5,2024-11-16,0,1
+APP100474,42,Contract,Master,Married,0.0,,956902.0,84,761.0,78152.0,Urban,Home,5.6,2024-03-05,0,0
+APP100475,49,Contract,Master,Married,2.0,541806.0,307463.0,84,727.0,22156.0,Urban,Vehicle,8.1,2026-09-10,0,0
+APP100476,56,Salaried,High School,Married,0.0,1259365.0,560144.0,48,651.0,372489.0,Semiurban,Business,4.4,2024-11-06,0,0
+APP100477,59,Salaried,Bachelor,Married,0.0,306977.0,65133.0,48,638.0,76744.0,Semiurban,Vehicle,0.0,2026-05-15,0,0
+APP100478,21,Salaried,High School,Married,0.0,302887.0,166261.0,240,,59113.0,Urban,Personal,11.7,2023-11-03,0,0
+APP100479,50,Self-employed,Master,Divorced,0.0,333413.0,155745.0,180,631.0,54552.0,Semiurban,Personal,0.0,2024-05-03,0,0
+APP100480,25,,Bachelor,Married,3.0,653302.0,156640.0,60,612.0,27620.0,Urban,Personal,4.2,2024-10-31,0,1
+APP100481,33,Salaried,Bachelor,Married,3.0,1259261.0,280981.0,36,542.0,393694.0,Urban,Business,6.7,2025-02-28,0,0
+APP100482,58,Contract,High School,Married,0.0,466750.0,107898.0,24,579.0,93925.0,Urban,Business,8.2,2023-11-18,0,0
+APP100483,32,Contract,Diploma,Married,,500091.0,257867.0,12,809.0,105752.0,Rural,Education,3.4,2024-03-14,0,0
+APP100484,56,Contract,Bachelor,Married,2.0,,106358.0,60,637.0,233287.0,Rural,Personal,0.0,2025-05-21,0,0
+APP100485,41,Unemployed,High School,Married,,890718.0,571885.0,60,804.0,300302.0,Semiurban,Home,3.0,2024-01-25,0,0
+APP100486,31,Self-employed,High School,Married,0.0,499835.0,239345.0,120,706.0,57161.0,Urban,Business,3.3,2025-11-29,0,0
+APP100487,36,Self-employed,Master,Married,0.0,484730.0,211869.0,180,677.0,146670.0,Urban,Home,3.1,2024-10-29,0,0
+APP100488,44,Self-employed,Master,Married,1.0,310134.0,254629.0,48,582.0,23840.0,Urban,Vehicle,11.9,2026-09-19,0,1
+APP100489,55,Salaried,High School,Single,3.0,474625.0,160934.0,24,680.0,49099.0,Rural,Vehicle,0.9,2023-11-29,0,0
+APP100490,48,Salaried,Diploma,Married,2.0,1242122.0,630075.0,180,803.0,406278.0,Urban,Business,8.5,2026-03-25,0,0
+APP100491,62,Salaried,Doctorate,Married,1.0,683333.0,543933.0,120,781.0,50657.0,Rural,Business,7.8,2024-11-17,0,0
+APP100492,60,Self-employed,Bachelor,Single,0.0,432703.0,212419.0,60,698.0,60788.0,Semiurban,Home,11.8,2023-05-01,0,0
+APP100493,54,Salaried,Bachelor,Married,2.0,,319830.0,12,605.0,521056.0,Semiurban,Business,6.3,2025-09-14,0,0
+APP100494,48,Salaried,Diploma,Married,3.0,471116.0,327236.0,60,618.0,158990.0,Rural,Vehicle,11.0,2023-10-24,0,0
+APP100495,34,Self-employed,Diploma,Single,1.0,1419341.0,961421.0,84,625.0,595651.0,Urban,Home,6.1,2023-07-13,0,0
+APP100496,39,Salaried,High School,Married,2.0,1406636.0,535230.0,180,763.0,561513.0,Rural,Education,9.2,2025-01-14,0,0
+APP100497,26,Salaried,Bachelor,Married,1.0,670336.0,85873.0,60,786.0,103506.0,Urban,Education,0.0,2026-01-05,0,0
+APP100498,37,Contract,High School,Married,1.0,285080.0,105382.0,60,693.0,83221.0,Rural,Vehicle,0.0,2023-12-27,0,0
+APP100499,62,Contract,High School,Married,1.0,2289749.0,1643560.0,48,660.0,418656.0,Semiurban,Vehicle,8.9,2025-05-22,0,1
+APP100500,40,Salaried,Bachelor,Married,2.0,804301.0,281157.0,48,781.0,257179.0,Urban,Personal,9.2,2023-01-21,0,0
+APP100501,26,Salaried,Master,Married,4.0,543938.0,115390.0,12,,92381.0,Rural,Vehicle,,2023-09-16,0,0
+APP100502,50,Salaried,Bachelor,Married,1.0,1099755.0,560910.0,12,683.0,22618.0,Urban,Personal,4.4,2025-11-22,0,1
+APP100503,64,Self-employed,Bachelor,Single,0.0,956460.0,681305.0,120,710.0,57764.0,Urban,Personal,14.4,2023-01-19,0,0
+APP100504,60,Contract,Bachelor,Married,0.0,1336739.0,181480.0,48,624.0,469911.0,Rural,Vehicle,4.7,2024-05-15,0,0
+APP100505,33,Salaried,Bachelor,Married,0.0,451548.0,96997.0,180,639.0,25342.0,Semiurban,Education,9.1,2024-12-11,0,0
+APP100506,41,Self-employed,Diploma,Married,0.0,774434.0,353409.0,48,634.0,215100.0,Rural,Business,10.0,2023-04-03,0,0
+APP100507,44,,Bachelor,Married,0.0,338574.0,268891.0,240,772.0,131653.0,Semiurban,Education,15.6,2026-10-01,2,0
+APP100508,32,Salaried,Bachelor,Married,1.0,937725.0,545144.0,24,804.0,317583.0,Semiurban,Education,5.4,2024-12-13,0,0
+APP100509,33,Unemployed,Bachelor,Married,0.0,641849.0,575165.0,24,687.0,126944.0,Urban,Vehicle,3.7,2024-04-19,0,0
+APP100510,31,Salaried,Master,Single,0.0,758640.0,182940.0,84,663.0,83223.0,Urban,Home,0.0,2026-09-30,0,0
+APP100511,65,Salaried,Doctorate,Divorced,2.0,599730.0,225318.0,180,641.0,249902.0,Rural,,14.8,2025-02-20,1,0
+APP100512,54,Salaried,High School,Married,0.0,,193025.0,24,680.0,149220.0,Urban,Vehicle,9.1,2025-08-07,0,0
+APP100513,58,,Diploma,Divorced,1.0,403205.0,157373.0,60,644.0,78355.0,Semiurban,Business,9.3,2023-05-07,0,0
+APP100514,57,Contract,High School,Divorced,3.0,1003962.0,522606.0,36,674.0,426769.0,Urban,Vehicle,22.6,2023-08-11,0,0
+APP100515,64,Unemployed,Diploma,Married,1.0,1474847.0,1078510.0,120,707.0,165858.0,Urban,Home,8.6,2023-03-05,0,1
+APP100516,25,Salaried,Diploma,Married,0.0,478571.0,209431.0,84,654.0,100587.0,Semiurban,Vehicle,,2024-12-21,0,1
+APP100517,60,Salaried,High School,Married,0.0,881319.0,585428.0,84,668.0,58800.0,Rural,Education,6.0,2026-03-16,0,0
+APP100518,23,Self-employed,Master,Single,1.0,,247529.0,36,668.0,60758.0,Rural,Vehicle,2.1,2026-06-16,0,0
+APP100519,42,Salaried,Bachelor,Married,,652901.0,417247.0,36,659.0,124963.0,Rural,Vehicle,5.0,2025-03-15,0,0
+APP100520,47,Contract,Master,Married,0.0,280716.0,159821.0,84,651.0,90069.0,Urban,Home,5.0,2023-03-17,0,0
+APP100521,37,Self-employed,High School,Married,1.0,317696.0,165967.0,48,730.0,52650.0,Semiurban,Vehicle,4.1,2025-05-26,0,0
+APP100522,27,Salaried,High School,Married,1.0,423025.0,53668.0,120,565.0,133899.0,Urban,Vehicle,0.0,2025-06-12,0,0
+APP100523,29,Contract,Bachelor,Single,0.0,200441.0,120967.0,24,782.0,73408.0,Semiurban,Personal,15.0,2025-04-15,0,0
+APP100524,58,Salaried,High School,Married,1.0,1410062.0,1071921.0,36,689.0,560300.0,Urban,Personal,8.5,2025-10-06,1,0
+APP100525,35,Salaried,Diploma,Married,0.0,795690.0,592496.0,12,720.0,31214.0,Semiurban,Vehicle,5.9,2025-02-19,0,0
+APP100526,34,Self-employed,Doctorate,Married,0.0,639377.0,521474.0,12,727.0,225511.0,Urban,Home,10.8,2025-09-12,1,1
+APP100527,62,Salaried,High School,Single,2.0,194872.0,50000.0,36,634.0,16227.0,Rural,Home,9.4,2024-11-11,0,0
+APP100528,27,Self-employed,High School,Single,0.0,238375.0,94609.0,60,621.0,76340.0,Rural,Vehicle,8.4,2023-07-30,0,0
+APP100529,62,Self-employed,Bachelor,Married,1.0,649163.0,254001.0,24,613.0,116729.0,Rural,Education,10.4,2023-04-22,0,0
+APP100530,62,Unemployed,Bachelor,Married,1.0,1921270.0,1436642.0,12,664.0,623166.0,Urban,Education,7.7,2026-06-24,0,1
+APP100531,47,Unemployed,Bachelor,Single,0.0,442623.0,146783.0,180,725.0,49549.0,Rural,Vehicle,10.4,2024-09-09,0,0
+APP100532,28,Salaried,Diploma,Single,3.0,1045302.0,302360.0,60,642.0,310816.0,Urban,Vehicle,10.8,2024-03-27,0,0
+APP100533,28,Salaried,Master,Married,0.0,499210.0,278681.0,120,720.0,36927.0,Urban,Vehicle,7.8,2024-02-15,0,0
+APP100534,33,Self-employed,High School,Single,0.0,670051.0,144865.0,120,526.0,62308.0,Urban,Education,5.9,2023-03-14,0,0
+APP100535,46,Unemployed,Bachelor,Married,3.0,1267813.0,859739.0,12,655.0,360336.0,Urban,,14.7,2026-08-16,1,1
+APP100536,27,Salaried,Bachelor,Married,2.0,537377.0,139040.0,84,756.0,88566.0,Semiurban,Home,4.6,2023-04-27,0,0
+APP100537,41,Salaried,Master,Single,2.0,444707.0,260321.0,180,669.0,143473.0,Urban,Education,9.0,2023-11-03,0,0
+APP100538,26,Salaried,Diploma,Married,0.0,1417870.0,1102562.0,60,626.0,446088.0,Urban,Business,9.1,2024-10-02,0,0
+APP100539,45,Salaried,Bachelor,Single,0.0,666493.0,346281.0,180,637.0,191485.0,Semiurban,Business,4.0,2024-05-16,0,0
+APP100540,21,Self-employed,High School,Single,2.0,1184570.0,271155.0,240,483.0,395803.0,Rural,Education,3.0,2023-02-25,0,0
+APP100541,52,Salaried,High School,Married,0.0,445896.0,50000.0,60,614.0,161143.0,Semiurban,Education,5.2,2024-04-05,0,0
+APP100542,23,Self-employed,High School,Married,0.0,1409011.0,234452.0,12,749.0,580389.0,Semiurban,Business,4.5,2025-12-27,0,0
+APP100543,29,Contract,Bachelor,Married,2.0,755566.0,94386.0,84,642.0,41270.0,Urban,Vehicle,0.0,2023-12-17,1,1
+APP100544,28,Contract,Diploma,Single,0.0,825596.0,441540.0,180,650.0,219415.0,Rural,Education,,2026-04-27,0,0
+APP100545,58,Salaried,Bachelor,Single,0.0,698803.0,358403.0,84,528.0,238972.0,Urban,Vehicle,8.3,2024-05-19,0,0
+APP100546,23,Salaried,High School,Married,0.0,492237.0,88672.0,180,,55763.0,Urban,Education,13.3,2023-01-19,0,1
+APP100547,40,Self-employed,Master,Married,1.0,649399.0,182972.0,60,757.0,,Urban,Home,9.8,2023-06-02,0,0
+APP100548,47,Contract,Master,Divorced,1.0,509560.0,521401.0,48,,68686.0,Semiurban,Vehicle,0.0,2026-02-08,0,0
+APP100549,44,Salaried,High School,Single,3.0,1101824.0,277321.0,240,596.0,293199.0,Urban,Home,10.2,2024-07-21,0,0
+APP100550,51,Contract,High School,Married,0.0,581314.0,192846.0,24,639.0,103156.0,Semiurban,Vehicle,4.2,2026-10-05,0,0
+APP100551,57,Salaried,High School,Married,0.0,285400.0,129158.0,60,678.0,87452.0,Urban,Education,9.3,2026-01-09,2,1
+APP100552,38,Contract,Master,Married,1.0,258085.0,60262.0,24,602.0,72884.0,Semiurban,Education,6.9,2023-02-12,0,0
+APP100553,58,Salaried,Diploma,Single,0.0,251458.0,284614.0,84,550.0,76081.0,Semiurban,Personal,6.0,2024-03-13,1,0
+APP100554,35,Salaried,Bachelor,Married,1.0,913110.0,173765.0,240,670.0,117332.0,Urban,Home,6.5,2025-10-11,0,0
+APP100555,65,Salaried,Bachelor,Single,3.0,345035.0,178708.0,240,717.0,120752.0,Semiurban,Personal,6.9,2023-03-30,0,0
+APP100556,43,Salaried,Master,Married,1.0,766642.0,383536.0,36,718.0,234236.0,Semiurban,Vehicle,13.7,2026-10-30,0,0
+APP100557,54,Salaried,Bachelor,,1.0,700706.0,507102.0,120,737.0,53379.0,Semiurban,Business,6.9,2023-08-21,0,0
+APP100558,60,Salaried,Bachelor,Divorced,4.0,627273.0,309825.0,180,579.0,66538.0,Urban,Business,12.4,2026-01-20,2,0
+APP100559,56,Salaried,Doctorate,Married,0.0,827240.0,546425.0,180,684.0,123602.0,Semiurban,Personal,11.7,2026-03-22,0,0
+APP100560,59,Self-employed,High School,Married,3.0,709130.0,270039.0,60,663.0,299606.0,Urban,Home,10.3,2024-12-08,0,0
+APP100561,45,Salaried,Master,Married,1.0,146441.0,125769.0,24,674.0,23479.0,Urban,Personal,0.0,2026-01-30,1,1
+APP100562,22,Self-employed,High School,Married,1.0,544016.0,323383.0,60,666.0,15531.0,Urban,Home,12.6,2026-05-23,0,0
+APP100563,43,Contract,Bachelor,Married,3.0,821210.0,469786.0,120,637.0,66435.0,Semiurban,Personal,4.7,2025-10-25,0,0
+APP100564,29,Salaried,Master,Single,1.0,1602192.0,733832.0,84,484.0,54208.0,Urban,Business,10.6,2025-09-18,0,0
+APP100565,61,Salaried,Bachelor,Divorced,1.0,1643402.0,489556.0,48,756.0,317540.0,Semiurban,Education,2.1,2024-06-28,0,0
+APP100566,31,,Bachelor,Married,0.0,307120.0,50000.0,24,701.0,111416.0,Urban,Vehicle,1.1,2024-02-14,0,0
+APP100567,31,Contract,Diploma,Married,2.0,536262.0,193731.0,84,584.0,114592.0,Rural,Home,16.9,2026-04-29,0,1
+APP100568,32,Salaried,Bachelor,Married,1.0,274681.0,153547.0,48,711.0,104590.0,Urban,Personal,2.2,2023-11-11,0,0
+APP100569,49,Contract,Diploma,Married,0.0,1499533.0,709634.0,60,651.0,60638.0,Semiurban,Business,12.7,2024-08-03,0,0
+APP100570,46,Salaried,Bachelor,Single,2.0,1134609.0,165970.0,240,653.0,251861.0,Rural,Personal,7.6,2024-12-18,0,0
+APP100571,63,Salaried,Bachelor,Married,2.0,788235.0,589938.0,12,630.0,282537.0,Urban,Business,4.9,2024-07-01,0,0
+APP100572,39,Self-employed,Diploma,Single,1.0,712176.0,412042.0,36,715.0,220868.0,Urban,Personal,6.8,2024-06-06,0,0
+APP100573,33,,Diploma,Single,0.0,1388972.0,813173.0,240,628.0,537136.0,Semiurban,Personal,0.5,2025-04-18,0,0
+APP100574,23,Self-employed,Diploma,Married,1.0,1265473.0,727529.0,240,609.0,174318.0,Rural,Education,6.9,2024-04-06,0,0
+APP100575,21,Salaried,Diploma,Single,0.0,1228927.0,172154.0,36,754.0,289247.0,Rural,Business,1.6,2026-10-16,0,0
+APP100576,37,Self-employed,High School,Married,0.0,835597.0,92719.0,240,668.0,259919.0,Urban,Vehicle,5.0,2023-09-07,0,0
+APP100577,62,Salaried,Master,Married,1.0,536409.0,355588.0,24,670.0,49591.0,Semiurban,Business,11.6,2024-06-28,1,0
+APP100578,44,Salaried,Bachelor,Single,0.0,991175.0,708545.0,12,725.0,367525.0,Urban,Business,8.3,2026-03-29,0,0
+APP100579,61,Salaried,High School,Married,0.0,1018204.0,648884.0,36,637.0,,Urban,Education,0.0,2024-10-27,0,0
+APP100580,25,Salaried,Bachelor,Single,2.0,585298.0,414039.0,60,650.0,35189.0,Semiurban,Business,11.3,2025-09-14,2,1
+APP100581,25,Self-employed,Master,Married,0.0,535813.0,317334.0,12,700.0,187134.0,Semiurban,Vehicle,7.0,2025-06-24,0,0
+APP100582,58,Salaried,Diploma,Married,4.0,1212324.0,825827.0,24,580.0,391772.0,,Business,4.3,2024-04-08,0,1
+APP100583,25,Salaried,High School,Married,3.0,1623332.0,1107661.0,180,694.0,649304.0,Rural,Education,10.7,2025-11-07,0,1
+APP100584,23,Salaried,High School,Married,1.0,430439.0,212772.0,84,631.0,173722.0,Urban,Vehicle,6.2,2023-11-29,0,0
+APP100585,39,Salaried,High School,Married,4.0,562345.0,76068.0,84,736.0,78597.0,Semiurban,Personal,1.2,2025-11-15,1,0
+APP100586,62,Contract,Master,Married,3.0,788384.0,155868.0,240,716.0,233193.0,Urban,Home,16.2,2023-06-29,0,0
+APP100587,52,Salaried,Doctorate,Married,0.0,849461.0,373657.0,36,707.0,381937.0,Urban,Business,6.9,2025-08-29,2,1
+APP100588,25,Unemployed,High School,Married,2.0,487686.0,324326.0,240,576.0,60881.0,Urban,Vehicle,6.6,2023-06-07,0,1
+APP100589,58,Salaried,Bachelor,Married,0.0,1831533.0,1241669.0,48,673.0,409049.0,Rural,Vehicle,5.0,2026-05-01,0,0
+APP100590,58,Self-employed,High School,Single,2.0,819853.0,299242.0,240,603.0,337264.0,Semiurban,Home,12.9,2025-05-25,0,0
+APP100591,57,Salaried,Bachelor,Married,1.0,870644.0,254637.0,180,678.0,56004.0,Urban,Home,4.4,2023-02-26,1,0
+APP100592,61,Salaried,Bachelor,Single,0.0,1710188.0,1208524.0,24,530.0,716821.0,Semiurban,Home,0.0,2023-06-02,1,0
+APP100593,31,Contract,Diploma,Married,0.0,,149927.0,24,580.0,116735.0,Rural,Personal,3.6,2023-09-20,0,0
+APP100594,65,Unemployed,High School,Single,3.0,619142.0,434922.0,60,757.0,250138.0,Rural,Personal,13.6,2026-09-06,1,1
+APP100595,35,Contract,Bachelor,Single,0.0,326244.0,84694.0,60,704.0,93694.0,Semiurban,Education,11.2,2025-04-05,0,0
+APP100596,57,Salaried,Doctorate,Divorced,0.0,591215.0,265032.0,36,657.0,182518.0,Urban,Home,5.7,2024-01-26,0,0
+APP100597,47,Salaried,Diploma,Married,0.0,286593.0,95264.0,36,621.0,100991.0,Semiurban,Personal,13.9,2024-01-23,0,0
+APP100598,56,Self-employed,High School,Married,1.0,980722.0,314116.0,240,610.0,47926.0,Rural,Business,10.7,2023-02-06,2,0
+APP100599,49,Salaried,High School,Divorced,2.0,818907.0,146347.0,120,693.0,237434.0,,Education,5.7,2023-10-12,0,0
+APP100600,49,Self-employed,Bachelor,Married,2.0,558126.0,50000.0,24,658.0,232902.0,Rural,Personal,6.2,2026-04-12,0,0
+APP100601,48,Self-employed,Bachelor,Single,1.0,615072.0,207454.0,120,781.0,265178.0,Semiurban,Education,8.6,2025-04-18,2,1
+APP100602,56,Self-employed,Master,Single,0.0,988095.0,307573.0,24,668.0,431183.0,Urban,Vehicle,2.8,2024-05-29,0,0
+APP100603,54,Contract,Bachelor,Married,0.0,348029.0,303745.0,60,684.0,103611.0,Semiurban,Business,7.0,2023-01-30,0,0
+APP100604,27,Self-employed,Master,Single,1.0,727246.0,111154.0,12,590.0,212584.0,Urban,Education,8.5,2024-04-25,0,0
+APP100605,58,Salaried,Master,Divorced,2.0,954992.0,375223.0,84,657.0,245968.0,Urban,Business,0.0,2024-06-20,0,0
+APP100606,45,Salaried,Diploma,Single,2.0,,50000.0,24,692.0,68594.0,Semiurban,Business,6.1,2023-06-16,0,0
+APP100607,35,Self-employed,Bachelor,Single,1.0,947369.0,729503.0,36,656.0,268305.0,Semiurban,Personal,5.5,2025-04-30,0,0
+APP100608,44,Salaried,Diploma,Single,1.0,,161875.0,24,648.0,9897.0,Rural,Vehicle,,2025-07-13,1,0
+APP100609,64,Salaried,Diploma,Single,1.0,609291.0,515145.0,24,701.0,35470.0,Rural,Home,0.0,2026-10-29,0,0
+APP100610,59,Salaried,Master,Single,1.0,342786.0,248709.0,12,778.0,98156.0,Rural,Education,5.1,2024-05-17,0,0
+APP100611,58,Self-employed,Bachelor,,1.0,1428183.0,508493.0,60,689.0,221530.0,Rural,Business,4.6,2024-01-22,1,0
+APP100612,41,Contract,Doctorate,Single,2.0,343970.0,167606.0,180,754.0,51462.0,Semiurban,Personal,11.8,2026-02-26,0,0
+APP100613,56,Self-employed,Bachelor,Married,1.0,262268.0,50000.0,36,720.0,27061.0,Urban,Vehicle,6.8,2024-05-05,1,0
+APP100614,38,Salaried,Bachelor,Married,3.0,699465.0,542842.0,180,750.0,254927.0,Semiurban,Business,16.0,2025-06-01,0,0
+APP100615,51,Salaried,Bachelor,Married,1.0,517721.0,241847.0,60,640.0,225033.0,Urban,Personal,10.3,2025-10-29,1,1
+APP100616,49,Salaried,High School,Married,0.0,284132.0,50000.0,36,667.0,82380.0,Urban,Personal,4.9,2026-05-16,0,0
+APP100617,32,Salaried,Diploma,Single,0.0,867982.0,723571.0,12,667.0,370221.0,Urban,Personal,8.2,2024-03-22,0,1
+APP100618,32,Self-employed,Bachelor,Single,1.0,217380.0,198133.0,180,716.0,86967.0,Rural,Personal,5.2,2025-05-21,0,1
+APP100619,23,Self-employed,High School,Single,1.0,367616.0,352565.0,12,732.0,41801.0,Semiurban,Business,11.3,2023-07-03,1,0
+APP100620,27,Salaried,Master,Divorced,1.0,473713.0,108099.0,48,688.0,40747.0,Rural,Vehicle,0.3,2025-12-26,3,0
+APP100621,40,Salaried,High School,Married,2.0,1010494.0,355553.0,12,737.0,112147.0,Rural,Education,2.9,2023-03-05,0,0
+APP100622,42,Salaried,High School,Single,0.0,1325414.0,587196.0,120,643.0,81341.0,Rural,Business,9.3,2025-09-02,0,0
+APP100623,28,Contract,Master,Married,2.0,1192137.0,517865.0,240,738.0,322638.0,Urban,Vehicle,13.1,2023-10-20,0,0
+APP100624,39,Self-employed,High School,Married,2.0,597451.0,235203.0,36,746.0,84563.0,Rural,Business,0.0,2024-10-09,0,0
+APP100625,48,Salaried,Master,Married,1.0,171049.0,50000.0,36,724.0,70567.0,Rural,Education,13.9,2023-04-17,1,0
+APP100626,31,,Bachelor,Married,1.0,805885.0,654575.0,84,689.0,228682.0,Rural,Business,6.3,2025-08-22,0,0
+APP100627,36,Salaried,High School,Married,0.0,,535414.0,60,726.0,254861.0,Urban,Education,0.0,2024-11-05,0,0
+APP100628,37,Salaried,Bachelor,Married,1.0,,,48,622.0,568081.0,Urban,Business,0.0,2025-07-18,2,0
+APP100629,43,Contract,Bachelor,Married,2.0,838483.0,589342.0,48,693.0,360442.0,,Home,0.0,2024-05-01,0,0
+APP100630,37,Salaried,Bachelor,Single,3.0,337899.0,177278.0,24,700.0,119888.0,Urban,Business,6.9,2023-01-10,0,0
+APP100631,54,Salaried,Master,Single,1.0,486897.0,254955.0,36,594.0,175489.0,Urban,Personal,6.7,2025-03-24,0,1
+APP100632,35,Self-employed,Bachelor,Divorced,0.0,1882904.0,465717.0,84,711.0,828904.0,Semiurban,Personal,10.2,2025-09-05,0,0
+APP100633,40,Salaried,Bachelor,Married,2.0,298202.0,50000.0,120,599.0,82959.0,Urban,Personal,4.3,2025-07-19,0,0
+APP100634,38,Self-employed,Diploma,Married,2.0,345731.0,340334.0,120,652.0,137742.0,Urban,Vehicle,1.5,2024-01-03,0,0
+APP100635,29,Salaried,Bachelor,Married,0.0,1091574.0,537819.0,60,683.0,52260.0,Rural,Home,4.9,2025-09-30,0,0
+APP100636,51,Salaried,Master,Single,2.0,512774.0,116263.0,120,633.0,132422.0,Rural,Business,7.2,2025-01-28,0,0
+APP100637,31,Salaried,Bachelor,Married,0.0,339342.0,274347.0,84,685.0,80113.0,Rural,Home,8.2,2023-10-22,0,0
+APP100638,34,Salaried,Bachelor,Single,0.0,1506217.0,957012.0,48,684.0,54557.0,Urban,Vehicle,3.1,2023-06-05,0,0
+APP100639,56,Salaried,Bachelor,Married,0.0,837610.0,544898.0,48,627.0,48070.0,Urban,Business,11.5,2024-03-31,0,0
+APP100640,63,Salaried,Bachelor,,0.0,526885.0,198599.0,60,717.0,15486.0,Semiurban,Education,3.9,2023-02-02,0,0
+APP100641,51,Contract,Doctorate,Single,3.0,346124.0,288667.0,36,630.0,50682.0,Semiurban,Business,2.7,2025-09-29,0,0
+APP100642,62,Salaried,High School,Single,1.0,2004292.0,467034.0,120,829.0,86204.0,Urban,Business,,2023-01-22,0,0
+APP100643,59,Salaried,High School,Married,0.0,641317.0,164183.0,24,673.0,129520.0,Rural,Home,12.4,2023-03-09,0,0
+APP100644,42,,Bachelor,Single,1.0,1401787.0,1065702.0,12,604.0,517934.0,Rural,Business,6.3,2023-08-10,0,0
+APP100645,55,Salaried,Bachelor,Single,1.0,1062597.0,807530.0,60,616.0,301721.0,Semiurban,Education,3.5,2024-04-01,0,0
+APP100646,35,Salaried,Bachelor,Married,0.0,488079.0,216150.0,12,755.0,151173.0,Urban,Education,11.6,2023-01-28,0,0
+APP100647,41,Self-employed,High School,Single,0.0,490220.0,66902.0,24,653.0,16446.0,,Education,17.7,2025-05-31,0,0
+APP100648,45,Salaried,Bachelor,Married,2.0,1440068.0,432581.0,48,591.0,548661.0,Urban,Education,8.0,2023-07-05,0,1
+APP100649,64,Contract,Bachelor,Single,0.0,1452958.0,992207.0,12,735.0,120395.0,Urban,Education,13.2,2026-01-29,0,0
+APP100650,59,Contract,Bachelor,Married,2.0,231521.0,156827.0,36,653.0,34761.0,Semiurban,Vehicle,12.2,2025-02-21,0,0
+APP100651,43,Salaried,Bachelor,Single,0.0,879498.0,277194.0,60,722.0,213033.0,Semiurban,Vehicle,4.0,2023-04-27,0,0
+APP100652,50,,Bachelor,Single,2.0,608079.0,120403.0,48,741.0,255331.0,Semiurban,Home,7.1,2024-07-14,3,1
+APP100653,30,Salaried,Bachelor,Single,2.0,368207.0,212071.0,240,698.0,165400.0,Rural,Vehicle,0.6,2023-07-16,0,1
+APP100654,57,Self-employed,Master,Single,0.0,750645.0,478115.0,12,836.0,267638.0,Urban,Vehicle,6.0,2026-10-05,0,0
+APP100655,45,Salaried,Bachelor,Single,0.0,309418.0,50000.0,120,568.0,103223.0,Urban,Education,3.9,2025-04-09,0,0
+APP100656,44,Contract,Bachelor,Single,3.0,,314850.0,84,627.0,124171.0,Urban,Personal,5.0,2026-02-06,0,0
+APP100657,55,Self-employed,Bachelor,Single,1.0,,290772.0,84,663.0,128298.0,Urban,Home,3.3,2024-06-08,0,0
+APP100658,49,Contract,,Married,2.0,493779.0,161913.0,120,827.0,40540.0,Semiurban,Vehicle,5.6,2023-07-25,1,0
+APP100659,24,Salaried,Diploma,Married,0.0,624942.0,303982.0,12,797.0,84839.0,Rural,Home,9.7,2023-11-25,0,0
+APP100660,33,Unemployed,Bachelor,Single,0.0,371820.0,195354.0,180,764.0,164864.0,Rural,Personal,6.4,2024-08-06,0,0
+APP100661,28,Salaried,Master,Single,1.0,1544138.0,882763.0,36,628.0,681327.0,Semiurban,Business,0.0,2025-12-14,2,0
+APP100662,54,Salaried,Bachelor,Married,3.0,852589.0,673176.0,84,636.0,135458.0,Urban,Vehicle,3.3,2024-08-26,0,0
+APP100663,22,Salaried,High School,Married,0.0,1744079.0,1056740.0,36,626.0,215657.0,Urban,Education,0.0,2026-07-24,0,0
+APP100664,30,Contract,Bachelor,Married,2.0,595218.0,317416.0,48,629.0,70648.0,Urban,Business,8.2,2024-05-21,0,0
+APP100665,47,Self-employed,Diploma,Single,2.0,480649.0,133293.0,120,777.0,,Urban,Personal,9.5,2023-11-23,0,0
+APP100666,52,Contract,Bachelor,Married,0.0,1709747.0,1009022.0,240,664.0,198706.0,Rural,Education,8.3,2024-11-24,1,0
+APP100667,43,Salaried,Master,Single,0.0,472974.0,98808.0,180,673.0,141350.0,Semiurban,Vehicle,3.1,2023-06-05,0,0
+APP100668,59,Unemployed,Bachelor,Single,0.0,589286.0,88108.0,120,730.0,30745.0,Urban,Business,8.2,2025-07-26,2,0
+APP100669,62,,Bachelor,,1.0,965840.0,536349.0,60,572.0,62375.0,Urban,Business,,2023-05-22,0,0
+APP100670,26,Salaried,Diploma,Married,2.0,329054.0,155902.0,60,683.0,45765.0,Urban,Business,1.3,2025-06-16,0,0
+APP100671,63,Unemployed,Bachelor,Single,1.0,,829628.0,240,609.0,,Rural,Home,10.7,2024-06-19,0,0
+APP100672,48,Salaried,Master,,0.0,895886.0,592385.0,24,661.0,142459.0,Urban,Business,11.1,2024-05-14,0,1
+APP100673,49,Salaried,Bachelor,Single,2.0,1306492.0,1029931.0,240,642.0,290631.0,Urban,Home,11.7,2025-05-05,0,0
+APP100674,25,Self-employed,Bachelor,Single,1.0,1060501.0,409529.0,84,639.0,320640.0,Urban,Personal,4.0,2025-09-14,0,0
+APP100675,48,Salaried,Diploma,Married,1.0,,714034.0,84,695.0,477101.0,Rural,Personal,12.9,2026-07-24,0,0
+APP100676,53,Salaried,High School,Married,1.0,611699.0,423683.0,84,694.0,93013.0,Semiurban,Education,4.5,2024-02-10,0,1
+APP100677,47,Salaried,High School,Single,0.0,404440.0,98131.0,180,666.0,135211.0,Semiurban,Business,10.3,2026-02-10,3,1
+APP100678,24,,High School,Married,2.0,2074477.0,1369298.0,120,704.0,296669.0,Urban,Home,4.4,2026-03-15,0,0
+APP100679,44,Contract,Diploma,Single,1.0,280701.0,184756.0,12,624.0,83402.0,Urban,Personal,5.9,2026-10-25,0,0
+APP100680,63,Self-employed,Master,Single,0.0,296602.0,124673.0,180,724.0,63437.0,Rural,Vehicle,0.0,2026-09-12,0,0
+APP100681,53,Salaried,Bachelor,Married,0.0,886954.0,538248.0,120,667.0,371146.0,Urban,Vehicle,5.5,2026-01-11,0,0
+APP100682,27,Salaried,Diploma,Single,1.0,1588769.0,446962.0,240,649.0,702713.0,Urban,Business,7.5,2024-02-17,1,0
+APP100683,64,Salaried,High School,Married,1.0,721423.0,81565.0,240,628.0,254571.0,Semiurban,Personal,4.9,2025-08-30,1,0
+APP100684,64,Self-employed,Diploma,Married,0.0,1126183.0,348839.0,240,664.0,465845.0,Urban,,15.8,2026-01-03,0,0
+APP100685,28,Contract,Master,Single,3.0,216866.0,134035.0,12,802.0,17067.0,Urban,Education,1.2,2024-02-13,0,1
+APP100686,57,Contract,Diploma,Single,2.0,493845.0,286992.0,84,,148855.0,Rural,Education,4.2,2026-02-12,0,0
+APP100687,39,Salaried,Master,Single,0.0,231899.0,218721.0,240,606.0,24419.0,Semiurban,Vehicle,2.5,2025-09-09,0,0
+APP100688,47,Salaried,Master,Divorced,2.0,998444.0,437392.0,240,740.0,138880.0,Urban,Education,4.2,2024-11-18,0,1
+APP100689,41,Salaried,High School,Married,1.0,277548.0,272607.0,60,649.0,67948.0,Urban,Personal,12.2,2026-04-21,0,0
+APP100690,56,Self-employed,Bachelor,Married,4.0,321878.0,160677.0,240,698.0,109134.0,Semiurban,Vehicle,14.4,2023-05-03,1,0
+APP100691,65,Salaried,Master,Single,0.0,862372.0,114405.0,180,641.0,284792.0,Urban,Business,3.5,2025-08-15,0,0
+APP100692,56,Self-employed,Bachelor,,0.0,1165582.0,322378.0,12,763.0,459085.0,Urban,Business,3.4,2026-01-05,0,0
+APP100693,62,Self-employed,High School,Single,1.0,595582.0,428658.0,180,642.0,155142.0,Semiurban,Personal,1.2,2023-02-26,0,0
+APP100694,63,Salaried,Master,Married,0.0,889418.0,500816.0,84,771.0,372068.0,Semiurban,Business,13.5,2024-07-24,2,0
+APP100695,25,Salaried,Master,Married,2.0,873716.0,,84,612.0,351052.0,Rural,Personal,12.6,2024-12-24,0,0
+APP100696,32,Salaried,Bachelor,Married,1.0,577372.0,263194.0,24,661.0,222343.0,Urban,Business,6.5,2023-10-19,0,0
+APP100697,53,Salaried,Bachelor,Single,0.0,355983.0,259141.0,240,771.0,42253.0,Urban,Personal,0.0,2026-05-16,1,1
+APP100698,47,,High School,Single,1.0,886838.0,683767.0,36,691.0,220399.0,Semiurban,Business,,2025-05-27,0,0
+APP100699,23,Self-employed,Master,Single,3.0,910665.0,677110.0,48,828.0,306513.0,Semiurban,Personal,7.9,2024-01-21,0,0
+APP100700,25,Salaried,Bachelor,Married,2.0,1062825.0,268031.0,36,663.0,467350.0,Urban,Personal,9.7,2024-09-03,0,0
+APP100701,44,Salaried,High School,Married,1.0,771710.0,551528.0,240,697.0,19299.0,Semiurban,Personal,0.0,2023-06-06,0,0
+APP100702,48,Self-employed,Bachelor,Single,0.0,341824.0,85057.0,60,804.0,54917.0,Urban,Education,5.4,2023-05-03,0,0
+APP100703,28,Self-employed,Master,Married,0.0,950188.0,668862.0,24,582.0,158882.0,Rural,Business,15.1,2025-11-11,0,0
+APP100704,28,Salaried,Master,Married,3.0,649506.0,410468.0,12,574.0,93574.0,Rural,Personal,5.9,2026-10-09,2,0
+APP100705,26,Contract,,Single,2.0,498432.0,283051.0,240,628.0,185164.0,Semiurban,Vehicle,14.4,2024-01-23,0,0
+APP100706,46,Contract,High School,Single,1.0,552759.0,,36,733.0,21768.0,Rural,Home,10.2,2023-12-09,0,0
+APP100707,21,Self-employed,Master,Single,3.0,444669.0,284946.0,120,575.0,77620.0,Rural,Personal,1.6,2025-08-15,0,1
+APP100708,46,Self-employed,Master,Married,0.0,1059801.0,286035.0,12,719.0,345521.0,Urban,Business,5.5,2024-12-16,0,0
+APP100709,42,Salaried,Bachelor,Married,2.0,297975.0,204001.0,240,714.0,58075.0,Urban,Education,6.4,2023-07-15,0,1
+APP100710,41,Contract,Bachelor,Married,0.0,376363.0,243967.0,84,811.0,30842.0,Semiurban,Business,2.2,2025-07-23,0,0
+APP100711,51,Salaried,Bachelor,Married,0.0,542478.0,430955.0,36,748.0,,Urban,Home,2.2,2023-10-21,0,0
+APP100712,44,Contract,Bachelor,Married,1.0,1578982.0,777981.0,240,704.0,386412.0,Urban,Education,,2023-06-11,0,0
+APP100713,53,Self-employed,High School,Divorced,1.0,1160756.0,594758.0,36,,513276.0,Urban,Vehicle,2.1,2024-10-11,0,0
+APP100714,55,Salaried,,Married,3.0,263620.0,66867.0,240,715.0,90123.0,Rural,Vehicle,12.4,2025-11-01,0,0
+APP100715,62,Salaried,Diploma,Married,0.0,1366781.0,859064.0,84,650.0,606927.0,Urban,Personal,4.8,2024-12-30,0,1
+APP100716,56,Self-employed,Master,Married,2.0,1365333.0,830615.0,60,606.0,136713.0,Rural,Education,,2025-06-26,0,0
+APP100717,44,Self-employed,High School,Married,2.0,,192416.0,12,643.0,118420.0,Urban,Home,9.8,2023-11-30,0,0
+APP100718,43,Salaried,Diploma,Married,2.0,162418.0,62804.0,36,677.0,41775.0,Urban,Vehicle,4.0,2024-11-22,1,1
+APP100719,31,Self-employed,Bachelor,Divorced,3.0,624687.0,377530.0,12,691.0,203885.0,Rural,,9.8,2025-09-25,0,1
+APP100720,47,Contract,High School,Married,1.0,1205085.0,366614.0,180,,266381.0,Urban,Personal,0.0,2025-01-09,0,1
+APP100721,27,Salaried,High School,Married,1.0,1559572.0,1000960.0,12,666.0,173624.0,Urban,Vehicle,9.2,2023-12-02,0,0
+APP100722,62,Salaried,Bachelor,Married,0.0,402630.0,50449.0,24,682.0,15971.0,Urban,Vehicle,0.0,2026-08-29,0,0
+APP100723,59,Salaried,Diploma,Married,0.0,1703706.0,525495.0,24,716.0,648199.0,Semiurban,Vehicle,5.9,2023-04-05,1,0
+APP100724,26,Self-employed,Bachelor,Married,3.0,190873.0,67584.0,240,786.0,70693.0,Urban,Home,11.3,2026-06-29,0,1
+APP100725,56,Salaried,Master,Married,1.0,530885.0,234822.0,240,692.0,47722.0,Urban,Business,10.1,2025-10-11,0,1
+APP100726,26,Contract,High School,Married,0.0,516723.0,131258.0,120,,153688.0,Urban,Education,0.5,2023-06-06,0,0
+APP100727,53,Salaried,Master,Divorced,0.0,1225075.0,,12,562.0,413127.0,Urban,Education,1.2,2023-12-24,0,0
+APP100728,24,Self-employed,Master,Single,1.0,1327481.0,401537.0,60,725.0,,Urban,Vehicle,3.6,2024-05-31,1,0
+APP100729,42,Salaried,Master,Married,2.0,1098604.0,298583.0,240,624.0,171831.0,Semiurban,Business,7.9,2026-09-02,1,1
+APP100730,50,Salaried,Bachelor,Married,0.0,309256.0,50000.0,12,736.0,123333.0,Urban,Home,0.0,2024-12-24,0,1
+APP100731,53,Self-employed,Bachelor,Divorced,2.0,1044625.0,273304.0,180,771.0,309470.0,Urban,Personal,6.9,2023-12-28,0,0
+APP100732,39,Salaried,Bachelor,Married,1.0,860011.0,576850.0,12,580.0,283540.0,Semiurban,Education,8.6,2026-07-11,0,1
+APP100733,62,Salaried,Bachelor,Married,2.0,259250.0,268151.0,180,716.0,77881.0,Semiurban,Vehicle,5.6,2023-06-15,0,0
+APP100734,55,Unemployed,High School,Married,0.0,,123937.0,60,764.0,68849.0,Urban,Education,9.6,2026-02-17,0,1
+APP100735,30,Unemployed,Master,Single,2.0,1150402.0,413052.0,180,746.0,94769.0,Urban,Personal,8.1,2026-03-08,1,0
+APP100736,51,Contract,Bachelor,Divorced,0.0,588701.0,286430.0,48,544.0,245321.0,Urban,Home,4.3,2024-06-25,0,0
+APP100737,53,Salaried,Master,Single,0.0,320577.0,50000.0,180,625.0,45810.0,,Education,0.0,2023-03-02,0,0
+APP100738,36,Self-employed,Diploma,Married,2.0,579681.0,367720.0,180,597.0,220115.0,Urban,Education,7.7,2026-05-25,0,0
+APP100739,54,Contract,High School,Married,2.0,794089.0,427664.0,36,714.0,320935.0,Urban,Personal,2.2,2026-09-16,3,0
+APP100740,61,Salaried,Bachelor,Married,0.0,621045.0,138846.0,84,707.0,186330.0,Semiurban,Education,4.1,2024-06-13,1,1
+APP100741,57,Salaried,Bachelor,Single,3.0,,119527.0,60,505.0,76755.0,Urban,Business,9.4,2023-09-18,0,0
+APP100742,55,Contract,Bachelor,Single,0.0,1833586.0,1299403.0,48,660.0,122650.0,Urban,Business,14.1,2024-01-15,0,0
+APP100743,49,Salaried,Diploma,Married,,1129231.0,414989.0,180,732.0,234400.0,Urban,Personal,6.8,2023-07-11,0,0
+APP100744,33,Self-employed,Diploma,Married,4.0,540511.0,310740.0,36,690.0,152968.0,Semiurban,Vehicle,9.8,2025-05-03,0,0
+APP100745,56,Unemployed,Bachelor,Single,1.0,552620.0,233422.0,24,690.0,30507.0,Semiurban,Business,0.0,2024-12-27,2,0
+APP100746,37,Self-employed,Diploma,Married,2.0,792102.0,149215.0,60,,53806.0,Semiurban,Vehicle,8.2,2024-05-13,1,0
+APP100747,44,Salaried,Doctorate,Single,1.0,349212.0,159556.0,180,611.0,156167.0,Rural,Personal,6.7,2025-06-29,0,0
+APP100748,35,Salaried,High School,Married,2.0,776227.0,477230.0,24,679.0,126417.0,Urban,Personal,13.1,2025-05-21,0,0
+APP100749,35,Salaried,Diploma,Single,,312645.0,265126.0,48,683.0,53270.0,Rural,Vehicle,4.3,2023-01-16,0,0
+APP100750,28,Salaried,Diploma,Single,2.0,625267.0,302046.0,120,720.0,80133.0,Semiurban,Education,5.8,2024-07-27,2,0
+APP100751,64,Self-employed,Bachelor,Single,0.0,341811.0,185678.0,60,725.0,101787.0,Rural,Personal,,2026-04-23,0,0
+APP100752,27,Contract,Bachelor,Married,2.0,351435.0,143194.0,84,686.0,78519.0,Semiurban,Home,6.5,2026-01-19,1,0
+APP100753,24,Salaried,,Married,0.0,1606993.0,741647.0,60,751.0,578333.0,,Business,1.5,2026-04-11,0,0
+APP100754,63,Salaried,,Married,4.0,671522.0,144725.0,180,656.0,161416.0,Urban,Personal,19.8,2026-08-29,2,0
+APP100755,45,Contract,Diploma,Married,0.0,728542.0,327521.0,180,586.0,19400.0,Semiurban,Personal,1.6,2023-03-27,0,0
+APP100756,40,Salaried,Bachelor,Single,0.0,215016.0,122571.0,60,711.0,48928.0,Urban,Home,6.7,2024-01-14,0,0
+APP100757,54,Salaried,High School,Single,3.0,468072.0,316849.0,48,688.0,20469.0,Semiurban,Business,8.7,2024-10-05,0,0
+APP100758,38,Salaried,Diploma,Single,0.0,837682.0,696332.0,36,712.0,,Urban,Business,8.3,2024-12-15,0,0
+APP100759,26,Self-employed,Bachelor,Divorced,0.0,723244.0,175289.0,48,598.0,49812.0,Urban,Home,6.1,2026-01-05,0,0
+APP100760,53,Salaried,High School,Single,2.0,198791.0,85859.0,180,796.0,22521.0,Rural,Business,6.1,2025-10-11,1,0
+APP100761,28,Self-employed,Bachelor,Divorced,0.0,728435.0,502594.0,60,726.0,158642.0,Semiurban,Business,5.8,2025-09-15,0,0
+APP100762,45,,Bachelor,Single,0.0,795189.0,188580.0,120,661.0,82643.0,Semiurban,Personal,1.4,2023-08-10,2,0
+APP100763,63,Self-employed,Bachelor,Single,1.0,1316907.0,436818.0,48,,331682.0,Urban,Home,17.8,2025-08-06,0,0
+APP100764,63,Salaried,Bachelor,Single,0.0,453319.0,258421.0,120,750.0,98869.0,Semiurban,Personal,5.9,2026-01-19,0,0
+APP100765,37,Salaried,Bachelor,Single,0.0,189395.0,150220.0,120,608.0,81361.0,Rural,Education,10.0,2025-11-18,2,1
+APP100766,56,Salaried,Diploma,Married,0.0,375684.0,261957.0,60,827.0,21790.0,Semiurban,Vehicle,5.3,2025-03-27,0,0
+APP100767,48,Salaried,High School,Married,0.0,355522.0,94254.0,240,640.0,95278.0,Semiurban,Vehicle,5.2,2023-05-04,1,1
+APP100768,42,Salaried,High School,Single,0.0,974732.0,431111.0,180,792.0,321439.0,Semiurban,Business,4.7,2023-07-29,3,0
+APP100769,27,Salaried,Bachelor,Married,0.0,145878.0,50000.0,24,668.0,10923.0,Urban,Personal,0.0,2025-11-06,0,0
+APP100770,37,Salaried,Doctorate,Married,1.0,507947.0,91640.0,36,783.0,149173.0,Semiurban,Vehicle,6.2,2026-04-30,0,0
+APP100771,50,Salaried,High School,Divorced,1.0,1423907.0,756456.0,240,632.0,557634.0,Rural,Personal,5.0,2026-03-01,0,1
+APP100772,65,Contract,Bachelor,Divorced,0.0,,185467.0,48,681.0,234049.0,Semiurban,Business,12.9,2024-08-20,0,0
+APP100773,21,Salaried,Bachelor,Married,0.0,1064166.0,883815.0,36,732.0,449209.0,Urban,Home,1.0,2025-04-02,0,0
+APP100774,53,Contract,Master,Married,3.0,263482.0,52660.0,180,723.0,86910.0,Semiurban,Education,4.1,2023-09-05,1,1
+APP100775,59,Unemployed,Bachelor,Married,1.0,269314.0,50000.0,84,752.0,51012.0,Semiurban,Personal,2.5,2025-04-08,0,0
+APP100776,63,Salaried,Bachelor,Married,1.0,1432900.0,175479.0,24,648.0,595791.0,Rural,Home,14.2,2023-10-01,0,0
+APP100777,40,Self-employed,Bachelor,Married,1.0,687211.0,448066.0,12,686.0,80337.0,Semiurban,Home,2.7,2026-01-18,1,0
+APP100778,26,Contract,Master,Single,0.0,687989.0,160741.0,180,761.0,186440.0,Urban,Home,9.8,2026-01-04,0,0
+APP100779,33,Self-employed,High School,Married,2.0,351422.0,50000.0,120,634.0,122728.0,Urban,Education,11.9,2023-03-13,2,1
+APP100780,59,Salaried,Master,Divorced,3.0,687047.0,273936.0,48,717.0,271439.0,Semiurban,Home,6.3,2026-08-03,0,0
+APP100781,60,Salaried,High School,Single,3.0,346093.0,69179.0,180,666.0,143322.0,Urban,Personal,,2026-01-19,0,0
+APP100782,49,Salaried,Master,Married,,1248566.0,660475.0,24,693.0,70593.0,Semiurban,Home,0.2,2024-06-13,0,0
+APP100783,26,Salaried,High School,,0.0,2913992.0,1481949.0,180,685.0,968044.0,Rural,Home,,2024-09-23,0,1
+APP100784,26,Unemployed,,Single,0.0,848220.0,175398.0,12,629.0,91408.0,Semiurban,,,2023-04-21,0,0
+APP100785,42,Unemployed,High School,Married,0.0,458404.0,210459.0,84,663.0,162743.0,Urban,Business,9.0,2026-08-03,0,0
+APP100786,47,Salaried,Bachelor,Divorced,0.0,161331.0,50000.0,180,689.0,51835.0,Semiurban,Personal,7.6,2023-05-22,1,1
+APP100787,22,Self-employed,Diploma,Divorced,2.0,257371.0,194389.0,84,673.0,25218.0,Semiurban,Vehicle,8.9,2026-07-15,0,0
+APP100788,51,Salaried,High School,Single,0.0,1528659.0,195449.0,180,782.0,578012.0,Urban,Education,9.4,2025-07-05,0,0
+APP100789,45,Contract,Bachelor,Single,3.0,369044.0,292062.0,48,746.0,80662.0,Semiurban,Business,2.3,2026-07-10,0,0
+APP100790,21,Salaried,Bachelor,Married,0.0,530072.0,141629.0,36,699.0,134563.0,Semiurban,Business,2.1,2024-06-03,0,0
+APP100791,25,Contract,Master,Single,0.0,932064.0,487530.0,36,,407968.0,Rural,Home,10.6,2026-06-07,0,0
+APP100792,41,Contract,Master,Single,3.0,1468845.0,578272.0,24,626.0,444104.0,Urban,Personal,3.9,2024-08-19,0,1
+APP100793,53,Salaried,Bachelor,Single,2.0,582424.0,516046.0,36,808.0,159050.0,Urban,Personal,0.0,2024-05-05,1,0
+APP100794,58,Salaried,High School,Single,0.0,520300.0,93395.0,36,614.0,14156.0,Semiurban,Business,10.2,2024-04-16,1,0
+APP100795,40,Contract,Diploma,Married,1.0,676116.0,486333.0,120,687.0,71440.0,Urban,Education,1.8,2026-08-25,1,1
+APP100796,34,Salaried,Master,Married,0.0,460251.0,423288.0,24,703.0,14463.0,Urban,,9.3,2024-10-13,0,0
+APP100797,64,Salaried,High School,Married,0.0,474078.0,170592.0,24,660.0,77428.0,Rural,Personal,14.0,2024-10-31,0,0
+APP100798,41,Contract,Bachelor,Married,1.0,815259.0,344562.0,120,615.0,,Urban,Personal,7.1,2025-06-19,0,0
+APP100799,35,Self-employed,Master,Married,0.0,719735.0,278417.0,60,629.0,178524.0,Semiurban,Education,12.0,2025-02-17,0,0
+APP100800,40,Salaried,,Single,1.0,2099292.0,1775804.0,24,644.0,664637.0,Rural,Business,7.8,2025-01-27,0,0
+APP100801,21,Salaried,Bachelor,Single,0.0,827442.0,413224.0,120,634.0,80360.0,Semiurban,Vehicle,14.9,2024-06-14,1,1
+APP100802,34,Salaried,Bachelor,Single,2.0,1224273.0,620099.0,24,766.0,,Semiurban,Business,1.7,2023-08-18,0,0
+APP100803,44,Unemployed,Bachelor,Single,2.0,360599.0,50000.0,180,679.0,149396.0,Semiurban,Home,7.0,2026-10-24,0,1
+APP100804,62,Salaried,Bachelor,Single,0.0,867668.0,656383.0,12,646.0,86379.0,Urban,Personal,10.4,2024-11-18,0,0
+APP100805,54,Salaried,High School,Single,0.0,436738.0,95791.0,84,687.0,132510.0,Urban,Education,6.0,2026-09-23,2,0
+APP100806,56,Salaried,High School,Single,1.0,807927.0,170887.0,84,723.0,31997.0,Semiurban,Education,12.8,2024-10-06,0,0
+APP100807,45,Unemployed,Bachelor,Married,2.0,949234.0,300492.0,48,658.0,235784.0,Urban,Home,4.8,2025-04-19,0,0
+APP100808,25,Salaried,Diploma,Married,2.0,668075.0,276203.0,120,739.0,226385.0,Urban,Education,17.3,2025-02-03,0,0
+APP100809,38,,Bachelor,Divorced,2.0,2443047.0,1906657.0,48,597.0,84622.0,Urban,Home,17.6,2026-09-14,0,0
+APP100810,65,Self-employed,Diploma,Married,1.0,1425619.0,950809.0,84,756.0,233055.0,Rural,Personal,8.4,2023-06-04,1,0
+APP100811,22,Contract,Master,Married,0.0,1241974.0,,36,679.0,493711.0,Urban,Business,9.8,2024-12-25,0,0
+APP100812,60,Unemployed,Master,Single,1.0,989629.0,400473.0,84,677.0,115743.0,Semiurban,Education,13.0,2023-08-03,0,0
+APP100813,51,Contract,Bachelor,Married,0.0,1714404.0,1177207.0,120,635.0,567187.0,Urban,Personal,1.1,2026-04-30,0,0
+APP100814,33,Contract,Master,Single,2.0,294901.0,176152.0,240,600.0,83534.0,Semiurban,Personal,0.4,2025-01-12,0,0
+APP100815,56,Salaried,Diploma,Married,0.0,1381090.0,372038.0,48,572.0,124831.0,Urban,Home,13.3,2026-07-16,0,0
+APP100816,58,Self-employed,Bachelor,Married,0.0,376828.0,78093.0,60,630.0,127720.0,Urban,Home,8.4,2024-01-21,1,0
+APP100817,22,Salaried,High School,Married,1.0,476556.0,,60,718.0,118565.0,Semiurban,Vehicle,5.9,2023-08-17,1,0
+APP100818,25,Salaried,Master,Single,1.0,885133.0,788659.0,180,618.0,60340.0,Semiurban,Home,7.1,2025-05-30,0,1
+APP100819,50,Contract,Master,Married,1.0,1280804.0,,240,,548478.0,Urban,Education,0.0,2023-07-24,0,1
+APP100820,65,Unemployed,Master,Married,1.0,344642.0,50000.0,84,621.0,79800.0,Semiurban,Education,6.0,2024-06-05,0,0
+APP100821,22,Self-employed,Master,Married,3.0,490327.0,333134.0,180,655.0,166900.0,Semiurban,Education,3.2,2024-03-15,0,0
+APP100822,50,Salaried,Master,Married,2.0,685820.0,195344.0,12,658.0,77917.0,Urban,Home,11.6,2023-11-06,0,0
+APP100823,27,Salaried,Diploma,Married,3.0,586675.0,398341.0,120,672.0,46341.0,Semiurban,Personal,12.0,2023-07-03,0,0
+APP100824,50,Salaried,Master,Single,,1039703.0,378104.0,180,747.0,352212.0,Urban,Personal,9.9,2025-07-07,2,0
+APP100825,49,Salaried,Bachelor,Married,2.0,3500000.0,1064053.0,120,761.0,1084105.0,Semiurban,Education,,2025-11-27,0,1
+APP100826,25,Salaried,Bachelor,Married,1.0,818603.0,292660.0,84,810.0,112858.0,Urban,Home,0.0,2024-07-05,0,1
+APP100827,51,Salaried,,Single,1.0,433813.0,100691.0,240,574.0,147888.0,Semiurban,Vehicle,10.0,2024-01-29,1,0
+APP100828,61,Salaried,Diploma,Single,0.0,318586.0,106385.0,84,624.0,75552.0,Urban,Business,10.1,2023-08-09,0,0
+APP100829,59,Self-employed,Diploma,Divorced,1.0,543529.0,378557.0,180,725.0,92344.0,Semiurban,Business,13.2,2025-08-05,0,0
+APP100830,22,Salaried,Diploma,Married,0.0,387546.0,293992.0,24,650.0,138882.0,Semiurban,Vehicle,17.6,2026-02-06,0,0
+APP100831,32,Contract,High School,Married,0.0,840607.0,575098.0,84,736.0,239755.0,Rural,Personal,0.0,2025-02-06,0,0
+APP100832,31,Self-employed,,Married,3.0,833459.0,433496.0,48,,198468.0,Semiurban,Personal,5.1,2024-08-27,0,0
+APP100833,41,Salaried,Master,Married,0.0,503825.0,50000.0,180,783.0,177566.0,Rural,Education,3.3,2025-06-26,0,0
+APP100834,27,Salaried,Bachelor,Married,1.0,1936616.0,,180,748.0,492435.0,Urban,Vehicle,7.9,2026-07-05,0,0
+APP100835,59,Salaried,Bachelor,Single,1.0,433753.0,221160.0,180,,183725.0,Urban,Education,7.1,2026-10-17,0,0
+APP100836,55,Unemployed,Bachelor,Married,0.0,608675.0,131173.0,24,653.0,226283.0,Urban,Home,5.8,2023-09-28,0,0
+APP100837,57,Salaried,Bachelor,Married,3.0,923815.0,752962.0,60,674.0,160763.0,Semiurban,Education,12.1,2024-10-29,0,1
+APP100838,29,Salaried,High School,Single,0.0,1061674.0,857516.0,12,660.0,233478.0,Semiurban,Home,1.5,2026-05-11,0,0
+APP100839,21,Contract,Master,Married,3.0,1312435.0,279163.0,240,582.0,566517.0,Rural,Home,1.8,2025-06-04,0,0
+APP100840,61,Unemployed,High School,Single,2.0,822744.0,489719.0,36,776.0,333160.0,Semiurban,Education,1.9,2026-02-16,0,0
+APP100841,34,Salaried,Bachelor,Married,0.0,1158608.0,714233.0,84,728.0,118421.0,Semiurban,Education,5.2,2026-10-26,0,0
+APP100842,50,Salaried,Bachelor,Married,0.0,450863.0,129534.0,60,658.0,62197.0,Urban,Personal,0.9,2023-05-26,0,0
+APP100843,61,Salaried,Bachelor,Married,0.0,1076981.0,697868.0,240,765.0,190303.0,Urban,Education,6.8,2025-05-07,0,1
+APP100844,22,Salaried,Master,Married,1.0,1069101.0,254439.0,180,639.0,425860.0,Rural,Personal,6.2,2025-01-14,0,0
+APP100845,21,Salaried,Diploma,Divorced,0.0,1493772.0,359102.0,120,561.0,625576.0,Urban,Personal,3.1,2024-02-03,0,0
+APP100846,21,Self-employed,Master,Married,4.0,259649.0,244899.0,84,745.0,94774.0,Urban,Vehicle,11.4,2025-07-04,1,1
+APP100847,28,Contract,Bachelor,Married,0.0,394659.0,228628.0,24,597.0,54682.0,Rural,Personal,6.7,2023-05-26,0,0
+APP100848,23,,Master,Married,2.0,1022187.0,373900.0,240,667.0,410345.0,Rural,Education,12.3,2024-11-24,0,1
+APP100849,57,Self-employed,Bachelor,Single,0.0,151218.0,110023.0,12,,5162.0,Semiurban,Education,6.0,2024-08-03,0,0
+APP100850,48,Salaried,Master,Single,4.0,851991.0,718021.0,60,705.0,171936.0,Urban,Home,6.9,2024-06-30,0,0
+APP100851,65,Contract,Doctorate,Married,0.0,1164288.0,417590.0,48,735.0,212343.0,Rural,Vehicle,4.2,2025-05-09,0,0
+APP100852,57,Self-employed,Bachelor,Single,1.0,473412.0,320281.0,48,718.0,118425.0,Urban,Education,7.0,2026-08-14,0,0
+APP100853,64,Contract,Master,Single,1.0,513047.0,458180.0,240,716.0,133944.0,Semiurban,Vehicle,10.6,2026-08-19,0,1
+APP100854,31,Contract,Bachelor,Married,0.0,360033.0,77943.0,36,629.0,42096.0,Urban,Education,4.9,2025-09-08,2,0
+APP100855,33,Salaried,Bachelor,Married,2.0,487905.0,355019.0,84,699.0,52674.0,Rural,Home,9.6,2024-04-08,0,0
+APP100856,59,Salaried,Master,Single,0.0,495744.0,338891.0,24,582.0,181211.0,Rural,Vehicle,2.9,2026-09-14,0,0
+APP100857,32,Salaried,Diploma,Married,1.0,446487.0,271721.0,240,782.0,23559.0,Semiurban,Business,10.8,2026-10-29,0,0
+APP100858,23,Salaried,Bachelor,Married,1.0,433222.0,76192.0,120,589.0,100556.0,Urban,Business,4.1,2026-03-30,0,0
+APP100859,51,Contract,High School,Married,1.0,559990.0,76029.0,48,657.0,57347.0,Semiurban,Personal,11.3,2026-05-07,0,0
+APP100860,57,Salaried,Diploma,Single,0.0,556276.0,253944.0,12,594.0,87566.0,Urban,Personal,7.3,2026-02-17,0,0
+APP100861,64,Self-employed,Master,Married,0.0,1822100.0,1016547.0,24,633.0,253703.0,Rural,Personal,14.6,2025-11-30,0,1
+APP100862,62,Salaried,Diploma,Single,0.0,523308.0,322715.0,36,681.0,169900.0,,Home,1.2,2025-10-12,0,0
+APP100863,26,Salaried,Diploma,Married,0.0,785449.0,483625.0,48,646.0,169727.0,Urban,Business,0.0,2025-06-12,0,0
+APP100864,55,Salaried,Diploma,Single,0.0,473280.0,325103.0,180,754.0,70405.0,Semiurban,Vehicle,3.9,2025-06-23,0,0
+APP100865,59,Self-employed,Bachelor,Divorced,3.0,469982.0,86236.0,24,695.0,177409.0,Semiurban,Vehicle,0.1,2024-06-29,0,0
+APP100866,52,Self-employed,Master,Single,1.0,,50000.0,84,650.0,14483.0,Rural,Vehicle,0.1,2026-05-26,0,0
+APP100867,57,Salaried,Master,Married,1.0,273888.0,261710.0,48,671.0,95733.0,Urban,Education,10.1,2025-06-07,0,0
+APP100868,58,Salaried,High School,Single,0.0,334663.0,207873.0,12,759.0,42427.0,Rural,Home,7.0,2025-05-08,1,0
+APP100869,41,Self-employed,Bachelor,Married,,719104.0,455897.0,84,739.0,298247.0,Urban,Education,4.6,2025-11-04,0,0
+APP100870,22,Salaried,Bachelor,Married,1.0,1174817.0,248916.0,120,606.0,26305.0,Urban,Home,,2023-04-16,2,0
+APP100871,41,Contract,Bachelor,Single,0.0,243303.0,163793.0,240,636.0,63104.0,Semiurban,Education,4.0,2026-07-10,0,0
+APP100872,30,Salaried,Bachelor,Single,0.0,480573.0,382135.0,60,711.0,138200.0,Urban,Business,15.3,2025-03-26,0,1
+APP100873,26,,Diploma,Single,1.0,306489.0,50000.0,36,703.0,82212.0,Semiurban,Home,3.3,2026-08-15,0,0
+APP100874,26,,Bachelor,Single,1.0,562066.0,50000.0,180,612.0,208221.0,Urban,Home,0.4,2023-05-24,0,1
+APP100875,52,Salaried,Bachelor,Divorced,,1174556.0,657655.0,36,729.0,80141.0,Urban,Personal,11.0,2023-11-24,0,0
+APP100876,43,Salaried,Bachelor,Married,0.0,508359.0,225846.0,120,622.0,101005.0,Semiurban,Business,5.9,2026-08-22,0,0
+APP100877,45,Salaried,Bachelor,Single,1.0,633233.0,414681.0,240,765.0,247852.0,Urban,Vehicle,17.2,2025-08-27,0,0
+APP100878,54,Unemployed,Master,Divorced,0.0,1447145.0,1080350.0,12,714.0,581978.0,Semiurban,Personal,4.4,2025-06-24,0,0
+APP100879,45,Salaried,Bachelor,Single,0.0,836158.0,518119.0,240,606.0,195902.0,Semiurban,Vehicle,11.2,2024-07-20,0,0
+APP100880,49,Salaried,Diploma,Married,2.0,427914.0,50000.0,24,646.0,111226.0,Urban,Personal,12.4,2025-02-16,0,0
+APP100881,24,Salaried,Master,Married,0.0,709369.0,429591.0,60,644.0,247201.0,Rural,Home,4.4,2025-02-03,0,1
+APP100882,59,Salaried,Master,Married,1.0,,307149.0,36,690.0,146473.0,Urban,Business,3.3,2023-10-04,2,0
+APP100883,41,Self-employed,High School,Married,1.0,819126.0,363141.0,24,667.0,329186.0,Urban,Home,10.7,2025-03-04,0,0
+APP100884,27,Salaried,Bachelor,Married,0.0,,,120,606.0,330405.0,Urban,Home,9.9,2024-12-23,0,0
+APP100885,57,Self-employed,Diploma,Divorced,3.0,306444.0,174066.0,60,589.0,60738.0,Rural,Education,0.0,2024-03-14,0,0
+APP100886,54,Salaried,Bachelor,Single,1.0,715731.0,,60,716.0,214286.0,Semiurban,Home,1.4,2024-04-24,0,0
+APP100887,23,Unemployed,Diploma,Divorced,,609298.0,322634.0,60,699.0,138793.0,Semiurban,Education,0.0,2025-12-11,2,1
+APP100888,29,Salaried,Bachelor,Married,1.0,877033.0,564740.0,120,687.0,62027.0,Rural,Vehicle,10.0,2025-08-03,0,0
+APP100889,21,Contract,Diploma,Divorced,3.0,1026811.0,339330.0,240,698.0,383332.0,Urban,Home,5.7,2024-10-19,0,0
+APP100890,33,Salaried,Bachelor,Single,0.0,845197.0,376244.0,60,640.0,235606.0,Rural,Personal,6.2,2025-04-26,0,0
+APP100891,25,,Master,Single,1.0,550164.0,304597.0,24,692.0,24726.0,Semiurban,Personal,0.0,2023-12-04,0,0
+APP100892,52,Contract,Diploma,Married,2.0,,300830.0,36,845.0,337820.0,Rural,Personal,1.5,2024-11-30,0,0
+APP100893,44,Self-employed,Master,Married,0.0,402135.0,118789.0,60,756.0,56996.0,Rural,Home,4.6,2025-02-25,0,0
+APP100894,65,Self-employed,Doctorate,Married,0.0,314406.0,221312.0,12,661.0,15652.0,Rural,Vehicle,3.6,2023-12-20,0,0
+APP100895,54,Salaried,Master,,4.0,120000.0,50000.0,36,646.0,33700.0,Urban,Vehicle,7.6,2023-08-26,0,0
+APP100896,48,Self-employed,High School,Married,1.0,625402.0,265416.0,24,494.0,209416.0,Rural,Vehicle,9.9,2025-01-06,2,1
+APP100897,43,Contract,Master,Single,2.0,413692.0,356340.0,240,749.0,100292.0,Rural,Education,18.3,2026-08-10,0,0
+APP100898,23,Self-employed,High School,Married,2.0,808950.0,695208.0,48,731.0,18144.0,Semiurban,Education,6.9,2024-10-08,0,0
+APP100899,24,,Diploma,Single,2.0,219817.0,130953.0,180,645.0,58924.0,Urban,Education,12.6,2026-06-16,0,0
+APP100900,48,Self-employed,Master,Single,3.0,455331.0,162090.0,60,587.0,10401.0,Rural,Vehicle,2.9,2026-04-06,0,0
+APP100901,21,Self-employed,Bachelor,Single,1.0,841866.0,600464.0,60,605.0,352199.0,Urban,Personal,0.0,2025-11-08,0,1
+APP100902,22,Unemployed,Bachelor,Married,0.0,368914.0,126750.0,240,709.0,49782.0,Semiurban,Personal,5.2,2026-06-06,0,1
+APP100903,30,Salaried,,Married,0.0,,577217.0,120,674.0,321183.0,Semiurban,Vehicle,0.0,2024-07-29,0,0
+APP100904,60,Salaried,Master,Married,1.0,478478.0,309077.0,36,725.0,12061.0,Urban,Vehicle,7.1,2025-11-28,0,0
+APP100905,41,Contract,Bachelor,Single,2.0,638376.0,323106.0,36,686.0,39454.0,Semiurban,Education,3.1,2023-07-22,0,0
+APP100906,52,Salaried,Bachelor,Married,1.0,901725.0,483296.0,84,743.0,193064.0,Urban,,0.0,2024-03-23,0,0
+APP100907,39,Self-employed,Master,Married,0.0,1097742.0,568236.0,12,704.0,380040.0,Semiurban,Personal,15.7,2025-03-04,0,0
+APP100908,28,Salaried,Diploma,Married,0.0,683922.0,624870.0,24,734.0,290873.0,Rural,Education,4.3,2023-02-23,0,0
+APP100909,37,Salaried,High School,Married,,415410.0,123624.0,12,544.0,101389.0,Urban,Home,0.0,2025-12-07,0,0
+APP100910,25,Self-employed,Bachelor,Married,2.0,505249.0,407837.0,120,600.0,87331.0,Semiurban,Home,11.5,2026-07-19,3,0
+APP100911,55,Salaried,Doctorate,Married,0.0,922694.0,182858.0,48,656.0,36131.0,Urban,Home,3.4,2023-05-28,0,0
+APP100912,29,Salaried,Diploma,Married,,370659.0,250287.0,12,750.0,100447.0,Rural,Vehicle,12.5,2026-10-20,0,0
+APP100913,37,Self-employed,Diploma,Married,2.0,589359.0,426797.0,120,802.0,108100.0,Rural,Vehicle,3.3,2023-05-04,1,0
+APP100914,65,Self-employed,High School,Married,,525703.0,242762.0,84,669.0,216026.0,Urban,Personal,4.3,2023-06-27,0,0
+APP100915,47,Contract,Master,Married,0.0,614079.0,121582.0,120,640.0,139043.0,Semiurban,Personal,8.7,2025-12-03,2,0
+APP100916,41,Salaried,Diploma,Single,,373108.0,358238.0,24,553.0,130268.0,Semiurban,Home,,2025-08-17,3,0
+APP100917,45,Salaried,Bachelor,Married,1.0,234722.0,213118.0,180,736.0,90305.0,Semiurban,Personal,10.8,2026-08-03,0,0
+APP100918,56,Unemployed,Doctorate,Married,2.0,865564.0,303797.0,24,644.0,53889.0,Semiurban,Education,6.6,2024-08-18,3,0
+APP100919,32,,High School,Married,0.0,1104607.0,603133.0,84,850.0,231486.0,Semiurban,Vehicle,9.6,2025-03-12,0,0
+APP100920,49,Salaried,Bachelor,Married,1.0,242567.0,189224.0,84,632.0,98069.0,Semiurban,Education,10.7,2023-07-27,0,0
+APP100921,60,Salaried,Bachelor,Single,1.0,796225.0,291942.0,24,817.0,161248.0,Urban,Education,8.0,2025-08-26,1,0
+APP100922,46,Salaried,Master,Married,0.0,1179355.0,669931.0,48,,310190.0,Urban,Home,6.3,2026-10-29,1,0
+APP100923,41,Contract,Diploma,Single,1.0,902098.0,416678.0,12,613.0,356721.0,Rural,Personal,0.0,2025-04-15,0,0
+APP100924,27,Self-employed,Bachelor,Divorced,1.0,516876.0,135683.0,60,695.0,62033.0,Urban,Home,10.0,2026-07-30,0,0
+APP100925,32,Self-employed,High School,Single,1.0,386855.0,286105.0,120,730.0,156549.0,Semiurban,Home,7.2,2024-07-04,0,0
+APP100926,63,Salaried,Bachelor,Married,0.0,679604.0,212139.0,36,665.0,129616.0,Urban,Vehicle,4.9,2026-10-07,1,1
+APP100927,45,Salaried,Master,Married,1.0,744903.0,627771.0,60,734.0,204852.0,Rural,Home,13.4,2025-01-21,0,0
+APP100928,34,Salaried,High School,Married,0.0,685170.0,396545.0,240,733.0,110351.0,Semiurban,Home,0.0,2023-07-21,0,0
+APP100929,39,Salaried,Diploma,Single,3.0,588689.0,364585.0,36,719.0,145207.0,Urban,Vehicle,15.2,2024-05-22,0,0
+APP100930,47,Salaried,Master,Married,4.0,,,36,679.0,14762.0,Urban,Vehicle,6.9,2024-11-19,0,0
+APP100931,45,Salaried,High School,Married,0.0,820120.0,332445.0,24,604.0,39416.0,Semiurban,Home,8.6,2023-04-04,2,0
+APP100932,52,Salaried,Diploma,Married,0.0,842137.0,647973.0,60,675.0,167022.0,Rural,Personal,5.0,2026-06-08,0,0
+APP100933,32,Self-employed,Bachelor,Married,0.0,725909.0,413439.0,24,691.0,119070.0,Semiurban,,0.0,2023-12-01,0,0
+APP100934,50,Self-employed,Diploma,Single,1.0,690916.0,532075.0,180,558.0,196766.0,Semiurban,Business,6.3,2025-08-03,0,0
+APP100935,40,Salaried,Diploma,Married,3.0,1636900.0,782168.0,36,691.0,59422.0,Semiurban,Education,8.7,2026-07-11,0,0
+APP100936,63,Salaried,Bachelor,Single,1.0,461077.0,216405.0,84,674.0,42464.0,Urban,Personal,10.4,2024-08-31,0,0
+APP100937,28,Self-employed,High School,Single,0.0,1315223.0,296088.0,24,596.0,144838.0,Semiurban,Vehicle,6.0,2025-05-03,0,1
+APP100938,27,Self-employed,Bachelor,Married,0.0,434093.0,276788.0,36,658.0,90904.0,Urban,Education,0.0,2024-12-24,0,0
+APP100939,41,Contract,Bachelor,Married,0.0,1196188.0,532612.0,24,660.0,150886.0,Urban,Home,,2025-12-05,1,0
+APP100940,43,Salaried,Bachelor,Single,2.0,1280908.0,667728.0,60,805.0,101441.0,Semiurban,Business,17.3,2023-02-24,0,0
+APP100941,52,Contract,High School,Single,1.0,,236741.0,12,694.0,153224.0,Rural,Home,1.5,2024-05-18,0,0
+APP100942,39,Salaried,Master,Single,1.0,1620519.0,798801.0,12,747.0,550758.0,Rural,Business,14.1,2025-05-06,0,0
+APP100943,62,Salaried,High School,Single,0.0,841295.0,557951.0,60,672.0,264726.0,Rural,Business,2.3,2023-05-08,2,0
+APP100944,42,Salaried,Master,Married,3.0,401205.0,,60,558.0,55670.0,,Vehicle,6.1,2026-04-18,0,0
+APP100945,26,,,Single,0.0,,,36,724.0,204981.0,Urban,Business,10.1,2025-06-03,0,0
+APP100946,26,Salaried,Master,Married,2.0,1211957.0,304505.0,48,637.0,343085.0,,Vehicle,2.9,2023-01-04,2,0
+APP100947,64,Salaried,High School,Single,3.0,1079937.0,540841.0,48,658.0,307033.0,Rural,Vehicle,15.0,2023-01-18,1,0
+APP100948,27,Self-employed,High School,Single,1.0,363235.0,50000.0,120,,40510.0,Semiurban,Education,7.4,2023-08-12,0,0
+APP100949,63,Salaried,Bachelor,Married,3.0,602074.0,505199.0,60,685.0,74748.0,Semiurban,Vehicle,9.3,2025-07-18,0,0
+APP100950,33,Salaried,High School,Single,0.0,726988.0,513933.0,180,749.0,162949.0,Semiurban,Business,5.7,2024-12-26,0,0
+APP100951,25,Salaried,Diploma,Married,2.0,491661.0,271655.0,24,741.0,60112.0,Rural,Vehicle,,2024-11-06,0,0
+APP100952,34,Salaried,Bachelor,Divorced,0.0,2377399.0,1757639.0,24,783.0,750957.0,Rural,Education,14.9,2025-02-24,0,0
+APP100953,48,Salaried,Master,Divorced,1.0,739140.0,407119.0,48,792.0,112851.0,Rural,Personal,6.3,2024-11-23,0,0
+APP100954,40,Salaried,High School,Married,0.0,628274.0,222265.0,12,547.0,53607.0,Semiurban,Vehicle,15.6,2024-04-25,0,0
+APP100955,56,Salaried,Master,Single,0.0,1251303.0,618017.0,120,602.0,106603.0,Urban,Education,3.9,2023-01-11,0,1
+APP100956,48,Self-employed,Master,Married,0.0,531714.0,133114.0,48,562.0,39723.0,Semiurban,Personal,10.8,2023-02-09,1,0
+APP100957,39,Contract,Master,Divorced,0.0,1131226.0,917463.0,48,721.0,236531.0,Urban,Vehicle,9.4,2025-08-22,0,0
+APP100958,49,Salaried,Bachelor,Divorced,1.0,259750.0,134789.0,60,635.0,5535.0,Rural,Home,1.7,2025-11-07,1,0
+APP100959,64,Self-employed,Bachelor,Single,1.0,506469.0,382122.0,12,648.0,128248.0,Semiurban,Vehicle,8.1,2023-12-02,0,0
+APP100960,39,Contract,Bachelor,Married,0.0,1157434.0,955064.0,48,666.0,171613.0,Semiurban,Personal,7.0,2023-12-07,0,0
+APP100961,27,Unemployed,Bachelor,Single,4.0,1541608.0,1075129.0,240,705.0,397066.0,Urban,Business,2.7,2024-07-25,0,1
+APP100962,39,Self-employed,Master,Single,3.0,424818.0,176481.0,84,583.0,179372.0,Semiurban,Personal,8.8,2025-06-21,0,1
+APP100963,58,Contract,,Married,0.0,398445.0,116683.0,84,598.0,156864.0,Semiurban,Vehicle,7.7,2025-04-10,0,0
+APP100964,30,Contract,Diploma,Single,1.0,888085.0,332836.0,60,680.0,237887.0,Urban,Personal,6.6,2025-02-21,0,0
+APP100965,63,Self-employed,High School,Single,2.0,461418.0,305074.0,60,758.0,92178.0,Rural,Vehicle,6.7,2023-02-21,0,0
+APP100966,47,,Master,Single,2.0,560738.0,514030.0,240,678.0,179602.0,Urban,Business,6.5,2024-08-26,0,0
+APP100967,48,Salaried,Bachelor,Married,0.0,1052575.0,701108.0,240,629.0,438871.0,Semiurban,Personal,5.2,2025-11-19,0,0
+APP100968,35,Salaried,Bachelor,Single,2.0,481890.0,142165.0,48,540.0,111078.0,Urban,Vehicle,7.7,2025-04-06,0,1
+APP100969,62,Salaried,Master,Married,0.0,220520.0,50000.0,240,742.0,13827.0,Semiurban,Personal,3.8,2026-02-03,0,0
+APP100970,22,Salaried,Doctorate,Single,0.0,317785.0,307210.0,12,632.0,111040.0,Semiurban,Business,20.3,2025-08-31,0,0
+APP100971,34,Salaried,High School,Divorced,2.0,653569.0,205620.0,36,605.0,16016.0,Rural,Business,0.0,2026-06-13,0,0
+APP100972,39,Self-employed,Master,Single,1.0,233245.0,,36,,81355.0,Urban,Business,,2025-03-12,0,0
+APP100973,42,Self-employed,Master,Married,2.0,551992.0,169958.0,120,586.0,,Rural,Home,4.5,2025-03-08,0,0
+APP100974,42,Contract,High School,Single,0.0,302270.0,91896.0,84,618.0,19903.0,Semiurban,Business,17.2,2025-02-19,1,0
+APP100975,27,Salaried,Bachelor,Single,0.0,1601889.0,1028355.0,60,664.0,570487.0,Urban,Vehicle,0.4,2024-01-06,0,0
+APP100976,31,Salaried,Diploma,Single,0.0,2138374.0,1766530.0,36,601.0,676783.0,Urban,Vehicle,9.1,2024-09-02,0,0
+APP100977,25,Self-employed,Bachelor,Single,0.0,363204.0,257643.0,60,692.0,95021.0,Urban,Home,8.2,2023-08-25,0,0
+APP100978,46,Contract,Bachelor,Single,0.0,748589.0,377628.0,36,664.0,279113.0,Rural,Home,8.7,2024-08-25,0,0
+APP100979,36,Unemployed,Diploma,Married,1.0,383274.0,213670.0,60,824.0,147978.0,Urban,Personal,13.2,2023-07-29,0,1
+APP100980,46,Contract,High School,Married,1.0,548314.0,428534.0,48,569.0,118836.0,Semiurban,Vehicle,13.1,2024-11-18,0,0
+APP100981,47,Contract,High School,Single,2.0,1752643.0,994648.0,180,690.0,785900.0,Semiurban,Vehicle,4.7,2026-08-28,0,0
+APP100982,52,Salaried,High School,Married,1.0,502851.0,,120,691.0,87375.0,Rural,Education,8.0,2024-09-24,2,0
+APP100983,45,Salaried,Bachelor,Married,0.0,555380.0,476463.0,24,613.0,52066.0,Semiurban,Business,0.0,2025-10-31,0,1
+APP100984,50,Salaried,Diploma,Single,,387061.0,108121.0,240,686.0,148542.0,Semiurban,Education,7.5,2024-09-06,0,0
+APP100985,47,Self-employed,High School,Single,0.0,1220940.0,247793.0,84,730.0,242595.0,Urban,Education,3.0,2026-06-22,1,0
+APP100986,50,Contract,Bachelor,Single,3.0,120000.0,118153.0,48,686.0,47524.0,Rural,Personal,6.1,2023-10-22,0,1
+APP100987,48,Salaried,Bachelor,Single,0.0,509502.0,272467.0,60,770.0,23591.0,Urban,Education,0.0,2026-03-14,0,1
+APP100988,35,Self-employed,Bachelor,Married,1.0,633801.0,168611.0,24,538.0,42942.0,Urban,Business,9.0,2025-10-11,0,0
+APP100989,32,Salaried,Master,Divorced,3.0,451863.0,161837.0,12,625.0,16862.0,Rural,Personal,0.0,2026-05-29,0,0
+APP100990,56,Salaried,Diploma,Divorced,1.0,1045157.0,835317.0,48,,291457.0,Urban,Business,7.7,2023-07-06,2,0
+APP100991,36,Salaried,Master,Divorced,1.0,1259018.0,769908.0,180,739.0,475533.0,Urban,Home,0.9,2026-06-06,0,0
+APP100992,45,Salaried,High School,Married,2.0,298972.0,95511.0,48,,57745.0,Semiurban,Vehicle,2.8,2026-06-26,0,0
+APP100993,29,Contract,Bachelor,Single,0.0,2055738.0,499841.0,48,,121287.0,Urban,Business,12.8,2024-02-19,0,1
+APP100994,40,Salaried,Doctorate,Single,2.0,297133.0,285762.0,240,555.0,53660.0,Urban,Education,9.9,2025-05-24,0,0
+APP100995,44,Contract,Master,Single,3.0,1320439.0,1055228.0,240,732.0,224025.0,Semiurban,Vehicle,12.7,2025-04-01,0,0
+APP100996,49,Self-employed,Bachelor,Single,4.0,705832.0,289692.0,60,749.0,209415.0,Semiurban,Vehicle,,2023-03-10,0,0
+APP100997,44,Salaried,Bachelor,Single,1.0,492718.0,140990.0,12,637.0,148025.0,Rural,Home,3.1,2025-01-05,0,0
+APP100998,37,Salaried,Diploma,Married,0.0,518957.0,400893.0,120,850.0,33369.0,Urban,Vehicle,14.5,2025-07-11,0,0
+APP100999,64,Contract,Bachelor,Single,2.0,638129.0,675542.0,120,693.0,128057.0,Semiurban,Business,0.0,2023-10-15,1,1
+APP101000,44,Salaried,Master,Single,1.0,728948.0,570206.0,240,537.0,215974.0,Rural,Home,10.7,2024-05-21,1,1
+APP101001,57,Contract,Doctorate,Married,0.0,391853.0,378626.0,240,705.0,51454.0,Urban,Personal,4.5,2025-03-30,1,1
+APP101002,54,Salaried,Bachelor,Single,0.0,571523.0,366761.0,84,633.0,111472.0,Urban,Vehicle,2.3,2026-07-25,0,0
+APP101003,46,Self-employed,High School,Married,0.0,425431.0,117101.0,12,756.0,120775.0,Urban,Personal,10.1,2023-03-26,0,0
+APP101004,60,Contract,Bachelor,Single,1.0,333184.0,215867.0,36,,64383.0,Semiurban,Vehicle,11.7,2026-08-03,1,1
+APP101005,26,Salaried,High School,Married,0.0,414657.0,244082.0,120,641.0,13796.0,Urban,Personal,11.6,2026-02-16,0,0
+APP101006,62,Salaried,Diploma,Single,0.0,345325.0,55410.0,84,778.0,39963.0,Semiurban,Education,8.1,2026-03-30,0,0
+APP101007,59,Unemployed,Diploma,Married,0.0,515887.0,97273.0,48,741.0,182477.0,Rural,Personal,7.7,2023-03-08,0,0
+APP101008,43,Salaried,Bachelor,Single,3.0,824547.0,590830.0,48,626.0,104599.0,Urban,Home,9.6,2025-03-05,3,0
+APP101009,54,Salaried,High School,Single,0.0,694619.0,317418.0,120,670.0,258131.0,Semiurban,Business,8.5,2024-05-31,1,0
+APP101010,44,Salaried,High School,Married,0.0,1925348.0,1394373.0,48,714.0,425060.0,Urban,Vehicle,9.7,2026-07-10,0,0
+APP101011,33,Salaried,High School,Single,1.0,192717.0,50000.0,24,656.0,43045.0,Urban,Vehicle,8.0,2025-11-03,0,0
+APP101012,56,Self-employed,Master,Single,0.0,841436.0,267657.0,240,658.0,295615.0,Semiurban,Home,11.2,2025-06-28,2,1
+APP101013,32,Self-employed,Bachelor,Divorced,4.0,652299.0,186725.0,48,682.0,120555.0,Semiurban,,0.0,2023-02-08,0,1
+APP101014,35,,High School,Single,3.0,1017996.0,618977.0,36,611.0,124752.0,Rural,Business,6.3,2026-05-10,0,0
+APP101015,44,Contract,High School,Married,1.0,963939.0,586690.0,12,535.0,62814.0,Semiurban,Personal,0.1,2024-11-16,0,1
+APP101016,58,Salaried,Bachelor,Married,1.0,593613.0,253314.0,60,696.0,183380.0,Urban,Education,8.4,2023-08-13,0,0
+APP101017,38,Salaried,Diploma,Single,0.0,714748.0,292316.0,240,551.0,158728.0,,Home,15.2,2026-05-08,1,0
+APP101018,43,Self-employed,Bachelor,Married,0.0,431701.0,133538.0,24,615.0,158885.0,Urban,Vehicle,4.6,2026-06-19,0,1
+APP101019,22,Unemployed,Bachelor,Single,0.0,910958.0,617227.0,36,565.0,,Rural,Education,7.6,2024-11-26,0,1
+APP101020,26,Salaried,Master,Married,0.0,231271.0,130655.0,24,573.0,45877.0,Semiurban,Home,10.8,2025-07-15,0,0
+APP101021,23,Salaried,Diploma,Single,0.0,996478.0,677268.0,12,708.0,147983.0,Urban,Personal,0.0,2025-05-04,0,0
+APP101022,24,Salaried,Bachelor,Single,1.0,641768.0,289299.0,84,666.0,,Semiurban,Personal,,2024-02-29,1,0
+APP101023,60,Contract,High School,Single,0.0,497248.0,242442.0,36,663.0,187506.0,Semiurban,Education,8.8,2025-11-13,0,0
+APP101024,58,Salaried,Master,Married,0.0,571966.0,225220.0,120,594.0,34856.0,Rural,Education,0.0,2026-10-28,0,1
+APP101025,57,Salaried,Doctorate,Married,1.0,595508.0,107182.0,48,637.0,242917.0,Urban,Business,2.1,2026-07-31,0,0
+APP101026,23,Self-employed,Bachelor,Divorced,1.0,1326752.0,420663.0,84,704.0,41887.0,Urban,Business,12.5,2025-08-19,0,0
+APP101027,24,Salaried,Bachelor,Married,0.0,3500000.0,791128.0,12,677.0,855990.0,Urban,,12.0,2024-05-19,1,0
+APP101028,33,Salaried,High School,Married,,1271435.0,343531.0,36,733.0,57318.0,Urban,Education,8.9,2026-06-25,0,0
+APP101029,46,Salaried,Master,Married,,476298.0,340044.0,48,743.0,169196.0,Semiurban,Business,11.4,2026-07-22,0,0
+APP101030,36,Salaried,Bachelor,Married,0.0,919061.0,330319.0,12,664.0,101964.0,Urban,Personal,8.1,2023-01-08,1,0
+APP101031,42,Salaried,Diploma,Married,2.0,941339.0,635458.0,48,560.0,247899.0,Urban,,,2024-04-18,0,0
+APP101032,28,Contract,Bachelor,Single,3.0,390776.0,252216.0,60,631.0,161809.0,Semiurban,Personal,5.4,2025-02-12,0,0
+APP101033,53,Self-employed,Bachelor,Married,1.0,,241499.0,48,674.0,97206.0,Urban,Education,7.6,2025-03-19,0,0
+APP101034,35,Self-employed,Master,Married,1.0,627766.0,360793.0,60,630.0,60691.0,Rural,Vehicle,3.8,2025-09-24,3,0
+APP101035,23,Unemployed,Bachelor,Single,2.0,1013547.0,632025.0,180,611.0,367483.0,Semiurban,Education,13.3,2024-12-20,0,0
+APP101036,54,Salaried,Bachelor,Married,1.0,267864.0,50000.0,120,685.0,56208.0,Urban,Business,14.6,2023-01-20,0,0
+APP101037,61,Salaried,Bachelor,Single,0.0,437238.0,185393.0,12,838.0,11222.0,Semiurban,Personal,13.9,2023-08-21,0,0
+APP101038,21,Contract,Diploma,Married,0.0,890632.0,386757.0,84,648.0,204230.0,Urban,Vehicle,,2025-12-03,0,0
+APP101039,40,Salaried,Diploma,Single,1.0,665089.0,393330.0,240,680.0,245663.0,Rural,Vehicle,,2025-08-28,0,0
+APP101040,58,Self-employed,High School,Married,1.0,1416470.0,986261.0,180,595.0,290209.0,Semiurban,Business,13.4,2025-07-01,0,1
+APP101041,52,Self-employed,Master,Married,0.0,299083.0,204634.0,36,761.0,,Semiurban,Business,9.7,2024-09-09,0,1
+APP101042,59,Salaried,Bachelor,Married,0.0,2370042.0,1441236.0,180,737.0,766415.0,Rural,Vehicle,8.6,2024-01-20,0,0
+APP101043,39,Salaried,Bachelor,Single,0.0,278962.0,154297.0,180,732.0,60388.0,Rural,,,2024-03-07,0,0
+APP101044,37,Salaried,Diploma,Divorced,0.0,212923.0,213473.0,48,768.0,33857.0,Rural,,9.1,2025-08-22,0,0
+APP101045,52,Salaried,High School,Married,1.0,629276.0,521172.0,180,652.0,209179.0,Urban,Vehicle,1.6,2024-12-07,0,1
+APP101046,27,Salaried,Bachelor,Single,2.0,348285.0,163050.0,84,660.0,62216.0,Urban,Personal,10.2,2023-07-03,1,0
+APP101047,31,Salaried,Diploma,Single,1.0,636291.0,442441.0,120,791.0,59263.0,Semiurban,Education,13.9,2024-07-13,0,0
+APP101048,48,Self-employed,High School,Single,0.0,624170.0,511635.0,120,721.0,98601.0,Semiurban,Personal,15.2,2026-02-27,1,1
+APP101049,51,Contract,Master,Single,0.0,583647.0,303421.0,180,536.0,231732.0,Semiurban,Vehicle,,2025-04-18,1,0
+APP101050,26,Contract,Diploma,Married,2.0,408972.0,102399.0,240,710.0,58016.0,Rural,Vehicle,0.1,2026-04-27,2,0
+APP101051,43,Salaried,,Divorced,1.0,824629.0,350085.0,180,642.0,99807.0,Urban,Personal,8.0,2024-12-13,0,0
+APP101052,37,Salaried,Bachelor,Married,0.0,545901.0,337330.0,48,738.0,42237.0,Urban,Personal,17.7,2024-11-10,0,1
+APP101053,43,Salaried,Master,Married,0.0,1192716.0,127969.0,84,707.0,52153.0,Semiurban,Personal,2.7,2026-08-22,0,0
+APP101054,64,Salaried,Diploma,Married,2.0,588612.0,229190.0,84,567.0,258976.0,Urban,Vehicle,6.7,2024-12-11,0,1
+APP101055,24,Contract,Bachelor,Married,2.0,382381.0,243558.0,180,697.0,95907.0,Semiurban,Personal,14.1,2023-07-09,0,0
+APP101056,65,Salaried,Master,Married,3.0,256911.0,197843.0,48,694.0,85743.0,Semiurban,Education,10.1,2024-07-16,0,0
+APP101057,41,Salaried,Bachelor,Single,1.0,591293.0,378537.0,36,704.0,208359.0,Semiurban,Personal,19.4,2025-06-25,0,1
+APP101058,55,Contract,Bachelor,Divorced,1.0,323406.0,150545.0,120,717.0,,Semiurban,Personal,3.3,2024-04-28,0,0
+APP101059,40,Salaried,Bachelor,Married,1.0,309356.0,116959.0,240,,112460.0,Semiurban,Education,2.1,2024-07-28,0,0
+APP101060,34,Salaried,Bachelor,Married,0.0,868766.0,154517.0,240,707.0,376556.0,Semiurban,Vehicle,13.1,2026-05-07,1,0
+APP101061,55,Salaried,Bachelor,Divorced,2.0,244509.0,177323.0,24,681.0,82878.0,Urban,Personal,1.0,2024-09-01,0,1
+APP101062,51,Self-employed,Bachelor,Married,1.0,1413294.0,370773.0,240,,460798.0,Semiurban,,6.0,2024-03-02,0,0
+APP101063,27,Self-employed,Diploma,Single,0.0,709682.0,353945.0,180,826.0,146096.0,Semiurban,Education,6.7,2023-05-31,0,0
+APP101064,52,Salaried,High School,Married,,634514.0,492841.0,24,739.0,242237.0,Urban,Business,12.2,2024-07-17,0,1
+APP101065,54,Contract,Bachelor,Single,0.0,367915.0,210070.0,12,693.0,21413.0,Semiurban,Personal,10.1,2025-12-09,1,1
+APP101066,38,Contract,High School,Married,0.0,989676.0,597806.0,24,708.0,338829.0,Rural,Home,9.3,2024-02-24,0,1
+APP101067,62,Contract,Bachelor,Single,0.0,648962.0,415247.0,240,697.0,113995.0,Urban,Personal,5.0,2024-10-20,0,0
+APP101068,49,Salaried,Bachelor,Married,3.0,445688.0,334926.0,120,681.0,117380.0,Semiurban,Education,13.1,2025-07-08,0,1
+APP101069,36,Salaried,Master,Married,3.0,725511.0,326125.0,84,821.0,293088.0,,Home,27.1,2026-07-23,0,0
+APP101070,21,Contract,High School,Single,1.0,257608.0,76698.0,84,631.0,72171.0,Rural,Vehicle,,2026-02-13,1,0
+APP101071,51,Salaried,Bachelor,Married,3.0,264421.0,50000.0,48,755.0,8197.0,Urban,Education,7.5,2024-02-05,1,1
+APP101072,30,Self-employed,Bachelor,Married,,351029.0,183960.0,240,672.0,116092.0,Semiurban,Business,0.5,2023-08-19,0,0
+APP101073,55,Self-employed,High School,Married,2.0,787775.0,384520.0,24,584.0,330456.0,Rural,Education,3.8,2025-07-28,0,1
+APP101074,44,Salaried,Diploma,Single,3.0,648836.0,260439.0,36,668.0,192098.0,Semiurban,Home,5.9,2023-12-23,0,0
+APP101075,42,Self-employed,High School,Single,1.0,1157376.0,773694.0,24,644.0,451852.0,Urban,Education,4.3,2024-07-03,0,0
+APP101076,28,Contract,High School,Married,2.0,391889.0,68517.0,180,718.0,146910.0,Urban,Vehicle,6.9,2023-05-26,0,0
+APP101077,53,Self-employed,Diploma,Married,1.0,891620.0,470535.0,60,686.0,348049.0,Rural,Vehicle,15.9,2025-12-20,0,0
+APP101078,28,Salaried,Bachelor,Married,2.0,610540.0,219406.0,120,614.0,102548.0,Semiurban,Business,13.2,2023-08-13,0,0
+APP101079,39,Contract,Bachelor,Single,0.0,386951.0,118293.0,240,776.0,86635.0,Urban,Personal,6.2,2024-06-16,1,0
+APP101080,58,Salaried,High School,Married,2.0,803431.0,128310.0,24,751.0,309043.0,Urban,Home,1.0,2024-07-23,0,0
+APP101081,62,Self-employed,High School,Single,3.0,626824.0,209111.0,240,783.0,257920.0,Semiurban,Business,13.7,2023-03-01,0,0
+APP101082,65,Contract,High School,Single,0.0,459876.0,477126.0,24,695.0,38235.0,Semiurban,Education,6.8,2025-12-22,0,0
+APP101083,64,Self-employed,Bachelor,Married,4.0,665189.0,635098.0,120,678.0,65228.0,Rural,Vehicle,0.0,2025-05-15,2,1
+APP101084,46,Salaried,Diploma,Single,0.0,605304.0,388972.0,120,726.0,102379.0,Semiurban,Business,10.6,2025-01-28,0,0
+APP101085,30,Salaried,Bachelor,Married,0.0,597315.0,342951.0,180,642.0,209794.0,Rural,Vehicle,12.1,2023-09-07,0,0
+APP101086,58,Salaried,Diploma,Divorced,0.0,518037.0,361804.0,24,688.0,205268.0,Rural,Business,0.0,2023-03-16,0,0
+APP101087,57,Salaried,,Married,2.0,317111.0,253932.0,240,669.0,85462.0,Urban,Education,2.9,2023-03-19,0,0
+APP101088,65,Salaried,Master,Married,1.0,677286.0,305428.0,180,585.0,46533.0,Semiurban,Home,6.4,2025-05-25,0,0
+APP101089,50,Self-employed,High School,Single,0.0,417999.0,119854.0,12,688.0,62956.0,Urban,Business,10.7,2025-11-12,0,0
+APP101090,27,Salaried,High School,Single,1.0,370848.0,250112.0,84,651.0,144082.0,Rural,Personal,4.4,2026-01-18,0,0
+APP101091,43,Self-employed,High School,Single,0.0,569402.0,475612.0,180,664.0,96484.0,Urban,Education,2.8,2026-01-25,0,0
+APP101092,41,Contract,Doctorate,Married,1.0,973295.0,258250.0,60,704.0,62492.0,Semiurban,Business,10.6,2024-07-04,0,0
+APP101093,58,Salaried,Bachelor,Married,3.0,719862.0,344635.0,48,763.0,107900.0,Rural,Home,4.7,2023-01-02,0,1
+APP101094,38,Self-employed,Bachelor,Single,2.0,485337.0,100878.0,36,625.0,178062.0,Urban,Vehicle,9.7,2023-12-10,0,0
+APP101095,35,Self-employed,Doctorate,Single,2.0,474723.0,171881.0,60,658.0,110229.0,,Vehicle,1.4,2026-01-06,0,0
+APP101096,24,Salaried,High School,Single,1.0,922115.0,575812.0,240,630.0,,Urban,,0.2,2025-12-05,0,0
+APP101097,58,,Doctorate,Married,4.0,173950.0,86519.0,84,626.0,26863.0,Semiurban,Vehicle,10.8,2024-12-11,2,1
+APP101098,54,Self-employed,High School,Married,0.0,1007798.0,909058.0,120,641.0,433393.0,Semiurban,Business,8.3,2023-02-03,0,0
+APP101099,22,Unemployed,Bachelor,Married,0.0,231890.0,191559.0,180,667.0,47709.0,Urban,Vehicle,11.6,2025-12-23,0,0
+APP101100,40,Self-employed,Bachelor,Married,0.0,298419.0,122958.0,180,718.0,62634.0,Semiurban,Business,4.3,2026-02-15,0,0
+APP101101,42,Contract,,Single,1.0,489863.0,386424.0,48,701.0,42040.0,Rural,Vehicle,3.0,2023-11-14,0,0
+APP101102,42,Unemployed,Master,Married,1.0,2144240.0,1537923.0,120,611.0,323691.0,Urban,Education,13.8,2026-01-30,0,1
+APP101103,62,Salaried,High School,Married,2.0,1635253.0,929363.0,36,764.0,605559.0,Semiurban,Home,0.0,2025-06-14,0,0
+APP101104,27,Self-employed,Doctorate,Single,0.0,958664.0,440604.0,84,741.0,343265.0,Rural,Business,13.3,2026-05-28,0,0
+APP101105,34,Salaried,Diploma,Married,0.0,790820.0,541294.0,36,621.0,163909.0,Rural,Home,13.6,2025-05-27,0,0
+APP101106,29,Unemployed,Bachelor,Single,2.0,233392.0,,240,760.0,94353.0,Urban,Personal,11.3,2023-05-06,0,0
+APP101107,31,Salaried,Doctorate,Married,4.0,708528.0,185184.0,120,701.0,130023.0,Rural,Personal,3.6,2025-06-24,0,1
+APP101108,61,Salaried,High School,Married,0.0,480535.0,188349.0,84,670.0,188207.0,Urban,Education,2.9,2023-05-31,0,0
+APP101109,63,Contract,Master,Married,0.0,414803.0,126792.0,60,703.0,13926.0,Semiurban,Personal,5.9,2023-12-29,0,0
+APP101110,23,Salaried,Bachelor,Married,0.0,707766.0,413773.0,60,678.0,119831.0,Semiurban,Personal,0.5,2026-05-06,0,0
+APP101111,49,Self-employed,Bachelor,Single,1.0,501630.0,219093.0,180,715.0,194472.0,Rural,Home,2.2,2026-09-17,0,1
+APP101112,31,Salaried,High School,Married,0.0,1048470.0,575495.0,36,692.0,427318.0,Urban,Business,10.2,2024-10-27,0,0
+APP101113,29,Unemployed,Bachelor,Married,0.0,224124.0,141042.0,180,658.0,77382.0,Urban,Vehicle,10.2,2024-02-12,0,0
+APP101114,34,Contract,Bachelor,Married,2.0,677377.0,525955.0,36,548.0,208661.0,Semiurban,Personal,1.8,2024-07-03,1,1
+APP101115,29,Salaried,Bachelor,Married,0.0,400803.0,117242.0,24,714.0,148564.0,Urban,Personal,10.4,2023-12-06,0,0
+APP101116,43,Self-employed,High School,Single,1.0,518880.0,374013.0,120,656.0,168247.0,Semiurban,Personal,9.3,2025-03-13,0,1
+APP101117,65,Salaried,Diploma,Married,0.0,768559.0,566594.0,120,731.0,99386.0,Semiurban,Education,14.5,2024-08-12,2,0
+APP101118,47,Self-employed,Master,Married,3.0,351586.0,126568.0,48,711.0,77518.0,Semiurban,Home,9.8,2023-03-24,1,0
+APP101119,53,Self-employed,High School,Single,1.0,711446.0,430084.0,84,657.0,216353.0,Urban,Home,12.3,2025-05-04,0,0
+APP101120,43,Contract,Bachelor,Married,0.0,578354.0,169364.0,120,746.0,157749.0,Urban,Home,9.4,2025-06-20,1,0
+APP101121,21,Salaried,Doctorate,Divorced,0.0,451985.0,255400.0,180,693.0,181062.0,Rural,Personal,11.9,2025-07-22,0,0
+APP101122,24,Salaried,High School,Married,2.0,501778.0,414857.0,240,691.0,112274.0,Semiurban,Education,0.6,2026-08-16,1,1
+APP101123,33,Self-employed,High School,Married,3.0,597031.0,216033.0,180,671.0,57634.0,Urban,Vehicle,6.4,2025-09-12,0,0
+APP101124,31,Self-employed,Bachelor,Married,0.0,426095.0,163170.0,48,789.0,47838.0,Urban,Education,6.8,2025-08-04,0,0
+APP101125,58,Salaried,High School,Divorced,0.0,652541.0,267072.0,36,634.0,250448.0,Urban,Home,5.8,2023-10-24,2,0
+APP101126,58,Salaried,Bachelor,Single,0.0,557786.0,363679.0,12,659.0,13247.0,Rural,Education,9.2,2024-10-12,0,0
+APP101127,59,Salaried,Bachelor,Married,1.0,464410.0,424118.0,84,,182850.0,Urban,Education,,2024-08-31,1,0
+APP101128,49,Contract,Bachelor,Married,3.0,1558354.0,174325.0,84,727.0,68416.0,Urban,Business,9.0,2026-09-07,0,0
+APP101129,46,Salaried,Diploma,Married,,816767.0,309276.0,120,642.0,153890.0,Semiurban,Home,6.1,2024-10-26,0,0
+APP101130,50,Salaried,,Married,0.0,526621.0,174295.0,12,649.0,191730.0,Urban,Personal,3.3,2025-08-21,2,0
+APP101131,39,Contract,Bachelor,Married,2.0,704294.0,374089.0,120,646.0,137531.0,Urban,Home,12.5,2025-01-26,0,0
+APP101132,51,Salaried,High School,Married,2.0,369526.0,62202.0,180,684.0,138059.0,Rural,Education,8.7,2023-03-21,1,1
+APP101133,56,Self-employed,Bachelor,Married,0.0,511193.0,147356.0,120,599.0,32271.0,Semiurban,Vehicle,1.9,2026-08-02,1,0
+APP101134,55,Salaried,Master,Married,0.0,545078.0,421437.0,60,534.0,130799.0,Urban,Business,6.0,2025-07-27,0,0
+APP101135,48,Contract,Bachelor,Married,0.0,327417.0,50000.0,12,710.0,88554.0,Semiurban,Business,0.0,2023-11-19,0,1
+APP101136,23,Self-employed,Bachelor,Single,2.0,804336.0,523855.0,60,543.0,324207.0,Urban,Home,7.2,2023-03-25,0,0
+APP101137,53,,Diploma,Married,2.0,492200.0,236341.0,84,736.0,29659.0,Urban,Education,6.0,2026-08-04,0,0
+APP101138,37,Salaried,High School,Married,2.0,534572.0,186219.0,84,781.0,88524.0,Semiurban,Education,4.1,2024-03-06,0,0
+APP101139,54,Salaried,Diploma,Married,2.0,475409.0,353941.0,84,669.0,144296.0,Semiurban,Education,14.9,2023-01-24,0,0
+APP101140,45,Self-employed,High School,Married,0.0,3309235.0,1067471.0,60,764.0,1460597.0,Semiurban,Home,1.2,2025-05-11,0,0
+APP101141,60,Salaried,Doctorate,Married,0.0,451481.0,134795.0,60,678.0,173711.0,,Home,10.5,2023-01-23,0,1
+APP101142,36,Salaried,Diploma,Married,0.0,208346.0,145930.0,36,784.0,80003.0,Urban,Education,17.9,2023-10-29,0,0
+APP101143,62,Salaried,Master,Single,3.0,269619.0,200372.0,84,650.0,65353.0,,Vehicle,12.4,2026-06-04,0,1
+APP101144,59,Unemployed,High School,Married,1.0,986920.0,723119.0,36,,259213.0,Semiurban,Education,6.8,2023-02-23,0,0
+APP101145,35,Self-employed,Diploma,Married,0.0,1355630.0,457137.0,60,675.0,527597.0,Urban,Home,1.3,2025-11-19,0,0
+APP101146,42,,Bachelor,Single,0.0,446743.0,113745.0,48,791.0,175989.0,Rural,Business,0.2,2025-05-15,0,0
+APP101147,44,Self-employed,Diploma,Single,2.0,1313427.0,412688.0,120,715.0,479372.0,Urban,Home,4.9,2024-03-04,0,0
+APP101148,55,Salaried,Master,Married,2.0,,873969.0,240,647.0,363561.0,Semiurban,Business,3.6,2024-02-05,0,0
+APP101149,52,Salaried,Master,Married,2.0,585671.0,434948.0,84,701.0,233238.0,Semiurban,Personal,3.4,2024-10-26,1,1
+APP101150,59,Salaried,Master,Married,0.0,563252.0,369237.0,24,743.0,38823.0,Urban,Vehicle,5.4,2025-01-16,0,0
+APP101151,37,Self-employed,High School,Single,3.0,,634218.0,120,674.0,104708.0,Rural,Home,6.5,2026-05-31,0,0
+APP101152,43,Salaried,Master,Married,2.0,1053184.0,273242.0,36,850.0,463115.0,Urban,Home,9.4,2024-01-01,1,0
+APP101153,40,Contract,High School,Married,2.0,808746.0,455376.0,12,646.0,205627.0,Rural,Vehicle,0.8,2025-04-06,2,1
+APP101154,61,Contract,Master,Married,2.0,447971.0,50000.0,24,745.0,42951.0,Urban,Home,3.6,2025-08-19,0,0
+APP101155,34,Salaried,Bachelor,Married,3.0,590612.0,229884.0,240,730.0,139570.0,Urban,Personal,6.2,2023-01-18,2,0
+APP101156,47,Self-employed,Diploma,Single,3.0,1932688.0,1484607.0,48,635.0,575336.0,Urban,Personal,,2026-06-07,0,0
+APP101157,26,Salaried,High School,Married,1.0,746309.0,484286.0,24,652.0,280713.0,Rural,Personal,16.2,2026-10-20,0,0
+APP101158,59,Unemployed,High School,Single,1.0,1048485.0,241631.0,24,746.0,387138.0,Urban,Personal,8.2,2023-05-02,0,0
+APP101159,38,Contract,Diploma,Married,0.0,,228302.0,84,,36016.0,Rural,Education,0.0,2024-01-02,0,1
+APP101160,36,Contract,Master,Single,2.0,755454.0,427349.0,120,702.0,162435.0,Urban,Vehicle,9.1,2026-01-05,1,0
+APP101161,47,Salaried,Master,Married,2.0,690045.0,140064.0,48,574.0,19904.0,Semiurban,Education,,2026-02-06,2,1
+APP101162,43,Salaried,Doctorate,Single,0.0,1064795.0,578881.0,12,723.0,427949.0,Urban,Vehicle,,2023-08-07,3,1
+APP101163,59,Salaried,High School,Married,0.0,965094.0,494420.0,48,699.0,91471.0,Urban,Personal,0.9,2026-07-08,0,0
+APP101164,44,Salaried,Bachelor,Married,3.0,751532.0,310734.0,84,676.0,216964.0,Rural,Education,15.8,2024-04-06,0,0
+APP101165,44,Salaried,Diploma,Married,3.0,443813.0,153174.0,24,703.0,117773.0,,Vehicle,1.7,2024-02-15,0,0
+APP101166,25,,Bachelor,Single,3.0,803542.0,271437.0,36,653.0,232206.0,Semiurban,Business,10.3,2024-05-15,0,0
+APP101167,21,,Diploma,Single,1.0,626481.0,444479.0,12,642.0,164307.0,Semiurban,Vehicle,8.0,2025-07-29,0,0
+APP101168,38,Salaried,Diploma,Married,2.0,548634.0,222722.0,60,664.0,179789.0,Semiurban,Vehicle,10.0,2023-10-16,1,0
+APP101169,65,Salaried,Bachelor,Married,2.0,2836423.0,1642378.0,24,650.0,820371.0,Semiurban,Vehicle,15.5,2025-01-30,0,0
+APP101170,62,Contract,High School,Married,0.0,278800.0,149184.0,24,822.0,16402.0,Rural,,9.8,2023-04-16,0,1
+APP101171,49,Self-employed,Bachelor,Divorced,0.0,1101199.0,666956.0,24,739.0,,Semiurban,Home,4.2,2023-07-25,2,1
+APP101172,49,Self-employed,Bachelor,Married,4.0,404440.0,62107.0,120,617.0,103146.0,Semiurban,Education,12.5,2025-12-11,0,0
+APP101173,38,Self-employed,High School,Divorced,0.0,698636.0,90397.0,60,812.0,111666.0,Semiurban,Personal,3.8,2024-06-21,0,1
+APP101174,28,Contract,Master,Single,1.0,2669631.0,1758498.0,240,652.0,926208.0,Semiurban,Vehicle,7.8,2026-01-16,0,0
+APP101175,21,Self-employed,Bachelor,Married,2.0,382860.0,182224.0,48,682.0,59993.0,Semiurban,Business,0.5,2025-10-29,0,1
+APP101176,36,Salaried,Master,Married,2.0,436524.0,139545.0,24,,164279.0,Semiurban,Vehicle,1.8,2026-10-27,0,0
+APP101177,35,Self-employed,Bachelor,Married,0.0,643769.0,288220.0,24,552.0,53494.0,Semiurban,Vehicle,7.3,2023-07-12,0,0
+APP101178,29,Salaried,Bachelor,Divorced,2.0,407892.0,295252.0,240,665.0,143104.0,Semiurban,Home,8.8,2026-08-01,0,1
+APP101179,32,Salaried,Bachelor,Married,0.0,1057014.0,231217.0,84,643.0,104528.0,Rural,Education,0.0,2026-06-02,0,0
+APP101180,22,Salaried,Master,Married,2.0,484434.0,123746.0,36,693.0,119678.0,Rural,Business,9.5,2024-08-31,0,0
+APP101181,48,Salaried,Bachelor,Married,0.0,931390.0,472838.0,84,704.0,146997.0,Rural,Vehicle,2.9,2023-07-09,0,0
+APP101182,62,Self-employed,Diploma,Single,2.0,312911.0,78147.0,84,675.0,92013.0,Semiurban,Education,13.4,2023-07-06,0,0
+APP101183,52,Salaried,High School,Married,2.0,240619.0,116647.0,24,672.0,26824.0,Semiurban,Education,5.2,2024-12-16,0,0
+APP101184,41,Salaried,Bachelor,Married,0.0,573083.0,320702.0,120,749.0,207471.0,Urban,Vehicle,1.4,2023-01-15,0,0
+APP101185,39,Salaried,High School,Married,0.0,274319.0,85351.0,24,700.0,73145.0,Semiurban,Business,7.4,2023-05-14,0,0
+APP101186,34,Contract,Diploma,Married,2.0,1498201.0,892177.0,24,683.0,646665.0,Urban,Education,2.4,2025-01-14,0,0
+APP101187,27,Salaried,High School,Single,0.0,280222.0,120296.0,120,690.0,91370.0,Urban,Home,13.3,2025-02-27,0,0
+APP101188,47,Self-employed,Bachelor,Single,0.0,367324.0,253355.0,60,799.0,103284.0,,Education,7.0,2026-04-19,2,0
+APP101189,46,Contract,High School,Single,1.0,816040.0,210186.0,24,691.0,307270.0,Rural,Vehicle,6.2,2026-09-26,0,0
+APP101190,21,Salaried,Bachelor,Married,3.0,470818.0,240347.0,12,647.0,53891.0,Semiurban,Business,10.0,2024-01-11,0,0
+APP101191,39,Self-employed,Master,Single,1.0,281986.0,95086.0,84,556.0,82362.0,Urban,Vehicle,2.0,2024-04-07,0,0
+APP101192,33,Salaried,Master,Married,1.0,1996104.0,792411.0,120,587.0,375015.0,Semiurban,Personal,0.6,2023-10-06,0,0
+APP101193,28,Salaried,Diploma,Married,4.0,374681.0,88082.0,24,650.0,127328.0,Semiurban,Business,9.0,2023-11-11,0,0
+APP101194,52,Self-employed,Bachelor,Married,1.0,583492.0,205363.0,48,,17809.0,Rural,Home,1.5,2024-09-06,0,0
+APP101195,44,Contract,Bachelor,Single,1.0,579356.0,391834.0,48,644.0,118140.0,Rural,Education,1.5,2026-10-22,1,0
+APP101196,49,Salaried,Bachelor,Married,1.0,960681.0,139815.0,240,703.0,288427.0,Urban,Personal,11.2,2026-06-04,0,0
+APP101197,53,Self-employed,Bachelor,Single,0.0,838208.0,624038.0,180,643.0,182792.0,Urban,Vehicle,9.6,2026-07-02,0,0
+APP101198,65,Salaried,High School,Married,0.0,412498.0,311534.0,36,621.0,50460.0,Urban,Business,0.7,2024-09-24,0,0
+APP101199,57,Self-employed,Doctorate,Single,2.0,543357.0,279880.0,60,720.0,119359.0,Urban,Business,3.9,2025-07-09,2,0
+APP101200,48,Self-employed,High School,Single,0.0,573734.0,154877.0,240,769.0,221111.0,Urban,Business,2.5,2025-10-08,2,1
